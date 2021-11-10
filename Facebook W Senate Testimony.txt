@@ -1,0 +1,1367 @@
+Mr. Chairman Blumenthal: (00:04)
+[crosstalk 00:00:04].
+
+Mr. Chairman Blumenthal: (02:54)
+So, welcome my colleagues and I want to thank Ranking Member Senator Blackburn for her cooperation and collaboration, we’ve been working very closely. And the ranking member who is here, Senator Wicker, as well as our Chairwoman Maria Cantwell. Senator Cantwell, I’m sure will be here shortly. Most important, I’d like to thank our witness Frances Haugen for being here and the two council who are representing her [inaudible 00:03:27] my heartfelt gratitude for your courage and strength in coming forward. As you have done standing up to one of the most powerful impactful corporate giants in the history of the world, without any exaggeration. You have a compelling, credible voice, which we’ve heard already. But you are not here alone, you’re armed with documents and evidence, and you speak volumes, as they do, about how Facebook has put profits ahead of people.
+
+Mr. Chairman Blumenthal: (04:09)
+Among other revelations, the information that you have provided to Congress is powerful proof that Facebook knew its products were harming teenagers. Facebook exploited teens using powerful algorithms that amplified their insecurities and abuses through what it found was an addict’s narrative. There is a question, which I hope you will discuss, as to whether there is such a thing as a safe algorithm. Facebook saw teens creating secret accounts that are often hidden from their parents as unique value proposition. In their words, a unique value proposition. A way to drive out numbers for advertisers and shareholders at the expense of safety, and it doubled down on targeting children pushing products on pre-teens not just teens, but pre-teens that it knows are harmful to our kids’ mental health and wellbeing.
+
+Mr. Chairman Blumenthal: (05:21)
+Instead of telling parents, Facebook concealed the facts, it sought to stonewall and block this information from becoming public, including to this committee when Senator Blackburn and I specifically asked the company. And still, even now, as of just last Thursday, when a Facebook witness came before this committee, it has refused this disclosure or even to tell us when it might decide whether to disclose additional documents. And they’ve continued their tactics, even after they knew the disruption it caused it. Isn’t just that they made money from these practices, but they continued to profit from them. Their profit was more important than the pain that they caused.
+
+Mr. Chairman Blumenthal: (06:14)
+Last Thursday, the message from Ms. Antigone Davis, Facebook’s Global Head of Safety was simple, “This research is not a bombshell.” and she repeated the line, not a bombshell. Well, this research is the very definition of a bombshell. Facebook and big tech are facing a big tobacco moment, a moment of reckoning, the parallel is striking. I sued big tobacco as Connecticut’s attorney general, I helped to lead the states in that legal action and I remember very, very well, the moment in the course of our litigation when we learned of those files that showed not only that big tobacco knew that its product caused cancer but that they had done the research, they concealed the files, and now we knew and the world knew. And big tech now faces that big tobacco jaw dropping moment of truth. It is documented proof that Facebook knows its products can be addictive and toxic to children. And it’s not just that they made money, again, it’s that they valued their profit more than the pain that they caused to children and their families.
+
+Mr. Chairman Blumenthal: (07:47)
+The damage to self-interest and self-worth inflicted by Facebook today will haunt a generation. Feelings of inadequacy and insecurity, rejection and self hatred, will impact this generation for years to come. Our children are the ones who are victims. Teens today looking at themselves in the mirror, feel doubt and insecurity. Mark Zuckerberg ought to be looking at himself in the mirror today. And yet rather than taking responsibility and showing leadership, Mr. Zuckerberg is going sailing. His new modus operandi, no apologies, no admission, no action, nothing to see here. Mark Zuckerberg you need to come before this committee need to explain to Frances Haugen, to us, to the world and to the parents of America, what you were doing and why you did it.
+
+Mr. Chairman Blumenthal: (09:02)
+Instagram’s business model is pretty straightforward, more eyeballs, more dollars. Everything Facebook does is to add more users and keep them on their apps for longer. In order to hook us, Instagram uses our private information to precisely target us with content and recommendations, assessing that what will provoke a reaction will keep us scrolling. Far too often these recommendations encouraged are most destructive and dangerous behaviors. As we showed on Thursday, we created a fake account, my office and I did, as a teen interested in extreme dieting and eating disorders. Instagram latched onto that teenager’s initial insecurities it then push more content and recommendations, glorifying eating disorders. That’s how Instagram’s algorithms can push teens into darker and darker places. Facebook’s own researchers called it Instagram’s, “Perfect storm.” exacerbating downward spirals.
+
+Mr. Chairman Blumenthal: (10:22)
+Facebook, as you have put it, Miss Haugen, so powerfully, maximizes profits and ignores pain. Facebook’s failure to acknowledge and to act makes it morally bankrupt. Again and again Facebook rejected reforms recommended by its own researchers. Last week, Ms. Davis said, “We’re looking at it.” No specific plans, no commitments, only vague platitudes.
+
+Mr. Chairman Blumenthal: (10:54)
+These documents that you have revealed provided this company with a blueprint for reform, provided specific recommendation that could have made Facebook and Instagram safer. The company repeatedly ignored those recommendations from its own researchers that would’ve made Facebook and Instagram safer. Facebook researchers have suggested changing their recommendations to stop promoting accounts known to encourage dangerous body comparison. Instead of making meaningful changes, Facebook simply pays lip service and if they won’t act and big tech won’t act, Congress has to intervene. Privacy protection is long overdue Senator Markey and I have introduced the Kids Act, which would ban addictive tactics that Facebook uses to exploit children. Parents deserve better tools to protect their children. I’m also a firm supporter of reforming section 230, we should consider narrowing this sweeping immunity when platform’s algorithm amplify illegal conduct, you’ve commented on this in your testimony, and perhaps you’ll expand on it.
+
+Mr. Chairman Blumenthal: (12:21)
+We have also heard compelling recommendations about requiring disclosures of research and independent reviews of these platforms’ algorithms. And I plan to pursue these ideas. The Securities and Exchange Commission should investigate your contentions and claims Miss Haugen, and so should the Federal Trade Commission. Facebook appears to have misled the public and investors, and if that’s correct it ought to face real penalties as result of that misleading and deceptive misrepresentation. I want to thank all my colleagues who are here today, because what we have is a bipartisan congressional roadmap for reform that will safeguard and protect children from big tech. That will be a focus of our subcommittee moving forward, and it will continue to be bipartisan. And finally, I’ll just end on this note. In the past weeks and days parents have contacted me with their stories, heartbreaking and spine chilling stories about children pushed into eating disorders, bullying online, self injury of the most disturbing kind, and sometimes even taking their lives because of social media. Parents are holding Facebook accountable because of your bravery, Miss Haugen, And we need to hold accountable Facebook and all big tech as well. Again, my thanks to you. I am going to enter into the record a letter from 52 state Attorneys General and from two members of the Youth Advisory Board of Sandy Hook, promise as long as there’s no objection. And I will now turn to the Ranking Member Senator Blackburn.
+
+Ranking Member Senator Blackburn: (14:26)
+Thank you, Mr. Chairman, and thank you for entering that letter in the record that we have from our state’s Attorneys General. Good morning to everyone, it is nice to see people in this hearing room and to be here for the today. Miss Haugen, We thank you for your appearance before us today and for giving the opportunity, not only for Congress but for the American people to hear from you in this setting, and we appreciate that.
+
+Ranking Member Senator Blackburn: (14:57)
+Mr. Chairman, I think, also thanks to you and your staff that have worked with our team to make certain that we had this hearing and this opportunity today that we can get more insight into what Facebook is actually doing as they invade the privacy, not only of adults, but of children and look at the ways that they are in violation of the Children’s Online Privacy Protection Act, which is federal law and looking at how they are evading that law and working around it. And as the chairman said, privacy and online privacy, passing a federal privacy standard has been long in the works. I filed my first privacy bill when it was in the House back in 2012, and I think that it will be this Congress and this subcommittee that is going to lead the way to online privacy, data security, section 230 reforms. And of course, Senator Klobuchar always wants to talk about antitrust and I have to give a nod Senator Markey is down there. When we were in the House, we were probably two of the only ones who were talking about the need to have a federal privacy standard.
+
+Ranking Member Senator Blackburn: (16:24)
+Now, as the Chairman mentioned, last week we heard from Mrs. Davis who heads global safety for Facebook. And it was surprising to us that what she tried to do was to minimize the information that was in these documents, to minimize the research and to minimize the knowledge that Facebook had. One point I even reminded her, the research was not third party research, the research was there, Facebook’s internal research. So they knew what they were doing, they knew where the violations were and they know they are guilty. They know this. Their research tells them this.
+
+Ranking Member Senator Blackburn: (17:24)
+Last week in advance of our hearing, Facebook released two studies and said that the Wall Street Journal was all wrong, that they had just gotten it wrong. As if the Wall Street Journal did not know how to read these documents and how to work through this research. Having seen the data that you’ve presented and the other studies that Facebook did not publicly share, I feel pretty confident that it’s Facebook who has done the misrepresenting to this committee.
+
+Ranking Member Senator Blackburn: (18:03)
+Here are some of the numbers that Facebook chose not to share. And Mr. Chairman I think it’s important that we look at these as we talk about the setting for this hearing, what we learned last week, what you and I have been learning over the past three years about big tech and Facebook. And here you go, 66% of teen girls on Instagram and 40% of teen boys experience negative social comparisons, this is Facebook’s research. 52% of teen girls who experience negative social comparison on Instagram said it was caused by images related to beauty. Social comparison is worse on Instagram because it is perceived as real life, but based on celebrity standards. Social comparison mimics the grief cycle and includes a downward emotional spiral, encompassing a range of emotions from jealousy to self proclaimed body dysmorphia. Facebook addiction, which Facebook calls, conveniently, problematic use is most severe in teens peeking at age 14.
+
+Ranking Member Senator Blackburn: (19:24)
+Here’s what else we know. Facebook is not interested in making significant changes to improve kids’ safety on their platforms. At least not when that would result in losing eyeballs on post or decreasing their ad revenues. In fact, Facebook is running scared, as they know that in their own words, young adults are active and less engaged on Facebook and that they are running out of teens to add to Instagram. So teens are looking at other platforms like TikTok, and Facebook is only making those changes that add to its users numbers and ultimately its profits, follow the money.
+
+Ranking Member Senator Blackburn: (20:13)
+So what are these changes? Allowing users to create multiple accounts that Facebook does not delete and encouraging teens to create second accounts, they can hide from their parents. They are also studying younger and younger children, as young as eight, so that they can market to them. And while Ms. Davis says that kids below 13 are not allowed on Facebook or Instagram, we know that they are because she told us that they recently had deleted 600,000 accounts from children under age 13. So how do you get that many underage accounts if you aren’t turning a blind eye to them in the first place. And then in order to try to clean it up, you go to delete it and then you say, “Oh, by the way, we just in the last month deleted 600,000 underage accounts.” And speaking of turning a blind eye, Facebook turns a blind eye to user privacy. News broke yesterday that the private data of over 1.5 billion, that’s right, 1. 5 billion Facebook users is being sold on a hacking forum. That’s its biggest data breach to date. Examples like this underscore my strong concerns about Facebook collecting the data of kids and teen and what they are doing with it.
+
+Ranking Member Senator Blackburn: (21:49)
+Facebook also turns a blind eye toward blatant human exploitation. Taking place on its platform trafficking, forced labor, cartels, the worst possible things one can imagine. Big tech companies have gotten away with abusing consumers for too long, it is clear that Facebook prioritizes profit over the wellbeing of children and all users. So as a mother and a grandmother, this is an issue that is of particular concern to me. So we thank you being here today, Miss Haugen. And we look forward to getting to the truth about what Facebook is doing with users’ data and how they are abusing their privacy and how they show a lack of respect for the individuals that are on their network. We look forward to the testimony. Thank you, Mr. Chairman.
+
+Mr. Chairman Blumenthal: (22:51)
+Thanks Senator Blackburn. I don’t know whether the Ranking Member would like to make a-
+
+Ranking Member Senator Wicker: (22:57)
+If you don’t mind, thank you, Chairman Blumenthal, and I will just take a moment or two, and I do appreciate being able to speak. As ranking member of the full committee, Miss Haugen, this is a subcommittee hearing, you see some vacant seats, this is pretty good attendance for our subcommittee. There are also a lot of things going on, so people will be coming it going, but I’m willing to predict that this will have almost 100% attendance by members of the subcommittee because of the importance of this subject matter. So thanks for coming forward to share concerns about Facebook’s business practices, particularly with respect to children and teens. And of course, that is the main topic, it’s the title of our hearing today, protecting kids online.
+
+Ranking Member Senator Wicker: (23:52)
+The recent revelations about Facebook’s mental health effects on children and it’s plan to target younger audiences are indeed disturbing. And I think you’re going to see a lot of bipartisan concern about this today and in future hearings. They show how urgent it is for Congress to act against powerful tech companies on behalf of children and the broader public. And I say powerful tech companies, they are possessive of immense, immense power. Their product is addictive and people on both sides of this dias are concerned about this.
+
+Ranking Member Senator Wicker: (24:42)
+I talk to an opinion maker just down the hall a few moments before this hearing, this person said the tech gods have been demystified now. And I think this hearing today, Mr. Chair, is a part of the process of demystifying big tech. The children of America are hooked on their product, it is often destructive and harmful, and there is a cynical knowledge on behalf of the leadership of these big tech companies that that is true. Miss Haugen, I hope you will have a chance to talk about your work experience at Facebook and perhaps compare it to other social media companies. Also, look forward to hearing your thoughts on how this committee and how this Congress can ensure greater accountability and transparency, especially with regard to children. Thank you, Mr. Chairman, and thank you, Miss Haugen for being here today.
+
+Mr. Chairman Blumenthal: (25:52)
+Thanks Senator Wicker. Our witness this morning is Frances Haugen. She was the lead product manager on Facebook’s Civic Misinformation Team. She holds a degree in electrical and computer engineering from Olin College and an MBA from Harvard. She made the courageous decision as all of us here, and many others around the world know, to leave Facebook and reveal the terrible truths about the company she learned during her tenure there. And I think we are all an agreement here in expressing our gratitude and our admiration for your bravery in coming forward. Thank you Miss Haugen. Please proceed.
+
+Miss Frances Haugen: (26:44)
+Good afternoon. Chairman Blumenthal, Ranking Member Blackburn, and members of the subcommittee. Thank you for the opportunity to appear before you. My name is Francis Haugen, I used to work at Facebook. I joined Facebook because I think Facebook has the potential to bring out the best in us. But I am here today because I believe Facebook’s products harm children, stoke division, and weaken our democracy. The company’s leadership knows how to make Facebook and Instagram safer but won’t make the necessary changes because they have put their astronomical profits before people. Congressional action is needed. They won’t solve this crisis without your help.
+
+Miss Frances Haugen: (27:28)
+Yesterday, we saw Facebook get taken off the internet. I don’t know why it went down, but I know that for more than five hours, Facebook wasn’t used to deepen divides, destabilized democracies and make young girls and women feel bad about their bodies. It also means that millions of small businesses weren’t able to reach potential customers and countless photos of new babies weren’t joyously celebrated by family and friends around the world. I believe in the potential of Facebook. We can have social media we enjoy that connects us without tearing apart our democracy, putting our children in danger and sewing ethnic violence around the world. We can do better.
+
+Miss Frances Haugen: (28:14)
+I have worked as a product manager at large tech companies since 2006, including Google, Pinterest, Yelp, and Facebook. My job has largely focused on algorithmic products like Google Plus Search and recommendation systems like the one that powers the Facebook newsfeed. Having worked on four different types of social networks, I understand how complex and nuanced these problems are. However, the choices being made inside of Facebook are disastrous for our children, for our public safety, our privacy, and for our democracy, and that is why we must demand Facebook make changes. During my time at Facebook, first working as the lead product manager for civic misinformation, and later on counter espionage, I saw Facebook repeatedly encounter conflicts between its own profits and our safety. Facebook consistently resolve these conflicts in favor of its own profits. The result has been more division, more harm, more lies, more threats, and more combat. In some cases, this dangerous online talk has led to actual violence that harms and even kills people.
+
+Miss Frances Haugen: (29:25)
+This is not simply a matter of certain social media users being angry or unstable, or about one side being radicalized against the other. It is about Facebook choosing to grow at all costs, becoming an almost trillion dollar company by buying its profits with our safety. During my time at Facebook, I came to realize a devastating truth. Almost no one outside of Facebook knows what happens inside of Facebook. The company intentionally hides vital information from the public, from the US government and from governments around the world. The documents I have provide to Congress prove that Facebook has repeatedly misled the public about what its own research reveals about the safety of children, the efficacy of its artificial intelligence systems and its role in spreading divisive and extreme messages. I came forward because I believe that every human being deserves the dignity of the truth. The severity of this crisis, demands that we break out of our previous regulatory frames.
+
+Miss Frances Haugen: (30:28)
+Facebook wants to trick you into thinking that privacy protections or changes to section 230 alone will be sufficient. While important, these will not get to the core of the issue, which is that no one truly understands the destructive choices made by Facebook except Facebook. We can afford nothing less than full transparency. As long as Facebook is operating in the shadows, hiding its research from public scrutiny, it is unaccountable. Until the incentives change Facebook will not change. Left alone Facebook will continue to make choices that go against the common good, our common good.
+
+Miss Frances Haugen: (31:10)
+When we realized big tobacco was hiding the harms it caused the government took action. When we figured out cars were safer with seat belts, the government took action. And when our government learned that opioids were taking lives, the government took action. I implore you to do the same here.
+
+Miss Frances Haugen: (31:28)
+Today Facebook shapes our perception of the world by choosing the information we see. Even those who don’t use Facebook are impacted by the majority who do. A company with such frightening influence over so many people, over their deepest thoughts, feelings and behavior, needs real over for site. But Facebook’s closed design means it has no real oversight. Only Facebook knows how it personalizes your feed for you. At other large tech companies like Google, any independent researcher can download from the internet, the company search results and write papers about what they find, and they do. But Facebook hides behind walls that keeps researchers and regulators from understanding the true dynamics of their system. Facebook will tell you, privacy means they can’t give you data. This is not true.
+
+Miss Frances Haugen: (32:20)
+When tobacco companies claimed that filtered cigarettes were safer for consumers, scientists could independently invalidate these marketing messages and confirm that, in fact, they posed a greater threat to human health. The public cannot do the same with Facebook. We are given no other option than to take their marketing messages on blind faith. Not only does the company hide most of its own data, my disclosure has proved that when Facebook is directly asked questions as important as, how do you impact the health and safety of our children, they choose to mislead and misdirect. Facebook has not earned our blind faith.
+
+Miss Frances Haugen: (33:07)
+This inability to see into Facebook’s actual systems and confirm that they work as communicated is like the department of transportation regulating cars by only watching them drive down the highway. Today, no regulator has a menu of solutions for how to fix Facebook, because Facebook didn’t want them to know enough about what’s causing the problems, otherwise there wouldn’t have been need for a whistle blower. How is the public supposed to assess if Facebook is resolving conflicts of interest in a way that is aligned with the public good, if the public has no visibility into how Facebook operates. This must change.
+
+Miss Frances Haugen: (33:48)
+Facebook wants you to believe that the problems we’re talking about are unsolvable. They want you to believe in false choices. They want you to believe that you must choose between a Facebook full of divisive and extreme content, or losing one of the most important values our country was founded upon, free speech. That you must choose between public oversight of Facebook’s choices and your personal privacy. That to be able to share fun photos of your kids with old friends, you must also be inundated with anger driven virality. They want you to believe that this is just part of the deal. I am here today to tell you that’s not true. These problems are solvable. A safer, free speech respecting, more enjoyable social media is possible, but there is one thing that I hope everyone takes away from these disclosures. It is that Facebook can change, but is clearly not going to do so on its own. My fear is that without action, divisive and extremist behaviors we see today are only the beginning. What we saw in Myanmar and are now seeing Ethiopia are only the opening chapters of a story so terrifying-
+
+Miss Frances Haugen: (35:02)
+… are only the opening chapters of a story.So terrifying, no one wants to read the end of it. Congress can change the rules that Facebook plays by and stop the many harms it is now causing. We now know the truth about Facebook’s destructive impact. I really appreciate the seriousness which the members of Congress and the Securities and Exchange Commission are approaching these issues. I came forward at great personal risk because I believe we still have time to act, but we must act now. I’m asking you, our elective representatives to act. Thank you.
+
+Mr. Chairman Blumenthal: (35:40)
+Thank you, Ms. Haugen. Thank you for taking that personal risk and we will do anything and everything to protect and stop any retaliation against you and any legal action that the company may bring to bear or anyone else. And we’ve made that I think very clear in the course of these proceedings. I want to ask you about this idea of disclosure. You’ve talked about looking in effect at a car going down the road, and we’re going to have five minute rounds of questions, maybe a second round if you are willing to do it. We’re here today to look under the hood and that’s what we need to do more. In August Senator Blackburn and I wrote to Mark Zuckerberg and we asked him pretty straightforward questions about how the company works and safeguards children and teens on Instagram, Facebook dodged, ducked, sidetracked, in effect misled us. So I’m going to ask you a few straightforward questions to break down some of what you have said, and if you can answer them yes or no, that would be great. Has Facebook’s research, its own research ever found that its platforms can have a net negative effect on children and teens mental health or wellbeing?
+
+Miss Frances Haugen: (37:11)
+Many of Facebook’s internal research reports indicate that Facebook has a serious negative harm on a significant portion of teenagers and younger, and children.
+
+Mr. Chairman Blumenthal: (37:24)
+And his Facebook ever offered features that it knew had a negative effect on children’s and teens mental health?
+
+Miss Frances Haugen: (37:34)
+Facebook knows that its amplification algorithms, things like engagement based ranking on Instagram, can lead children from very innocuous topics like healthy recipes, I think all of us, you eat a little more healthy, all the way from just something innocent like healthy recipes to anorexia promoting content over a very short period of time.
+
+Mr. Chairman Blumenthal: (37:56)
+And has Facebook ever found again in its research that kids show sign of addiction on Instagram?
+
+Miss Frances Haugen: (38:04)
+Facebook has studied a pattern that they call problematic use, what we might more commonly call addiction. It has a very high bar for what it believes it is. It says you self-identify that you don’t have control over your usage and that it is materially harming your health, your schoolwork or your physical health. Five to 6% of 14 year olds have the self-awareness to admit both those questions. It is likely that far more than five to 6% of 14 year olds are addicted to Instagram.
+
+Mr. Chairman Blumenthal: (38:38)
+Last third day, my colleagues and I asked Ms. Davis, who was representing Facebook about how the decision would’ve made, whether to pause permanently Instagram for kids. And she said, “There’s no one person who makes a decision like that. We think about that collaboratively.” It’s as though she couldn’t mention Mark Zuckerberg’s name. Isn’t he the one who will be making this decision from her experience in the company?
+
+Miss Frances Haugen: (39:11)
+Mark holds a very unique role in the tech industry, in that he holds over 55% of all the voting shares for Facebook. There are no similarly powerful companies that are as unilaterally controlled. And in the end, the buck stops with Mark. There’s no one currently holding Mark accountable but himself.
+
+Mr. Chairman Blumenthal: (39:32)
+And Mark Zuckerberg in effect is the algorithm designer in chief, correct?
+
+Miss Frances Haugen: (39:39)
+I received an MBA from Harvard and they emphasize to us that we are responsible for the organizations that we build. Mark has built an organization that is very metrics driven. It is intended to be flat, there is no unilateral responsibility. The metrics make the decision. Unfortunately, that itself is a decision. And in the end, if he is the CEO and the chairman of Facebook, he is responsible for those decisions.
+
+Mr. Chairman Blumenthal: (40:06)
+The buck stops with him.
+
+Miss Frances Haugen: (40:07)
+The buck stops with him.
+
+Mr. Chairman Blumenthal: (40:10)
+And speaking of the buck stopping, you have said that Facebook should declare moral bankruptcy. I agree. I think its actions and its failure to acknowledge its responsibility indicate moral bankruptcy.
+
+Miss Frances Haugen: (40:29)
+There is a cycle occurring inside the company where Facebook has struggled for a long time to recruit and retain the number of employees it needs to tackle the large scope of projects that is chosen to take on. Facebook is stuck in a cycle where it struggles to hire, that causes it to understaff projects, which causes scandals, which then makes it harder to hire. Part of why Facebook needs to come out and say, “We did something wrong. We made some choices that we regret.” Is the only way we can move forward and heal. Facebook is we first have to admit the truth. The way we’ll have reconciliation and we can move forward is by first being honest and declaring moral bankruptcy.
+
+Mr. Chairman Blumenthal: (41:11)
+Being honest and acknowledging that Facebook has caused and aggravated a lot of pain simply make more money. And it has profited off spreading disinformation and misinformation and sowing hate. Facebook’s answers to Facebook’s destructive impact always seems to be more Facebook, we need more Facebook, which means more pain and more money for Facebook. Would you agree?
+
+Miss Frances Haugen: (41:44)
+I don’t think at any point Facebook set out to make a destructive platform. I think it is a challenge of that Facebook is set up an organization where the parts of the organization responsible for growing and expanding the organization are separate and not regularly cross pollinated with the parts of the company that focus on the harms that the company is causing. And as a result, regularly integrity actions, projects that were hard fought by the teams trying to keep us safe are undone by new growth projects that counteract those same remedies. So I do think it’s a thing of, there are organizational problems that need oversight and Facebook needs help in order to move forward to a more healthy place.
+
+Mr. Chairman Blumenthal: (42:26)
+And whether it’s teens bullied into suicidal thoughts or the genocide of ethnic minorities in Myanmar, or fanning the flames of division within our own country or in Europe, they are ultimately responsible for the immorality of the pain that’s caused.
+
+Miss Frances Haugen: (42:51)
+Facebook needs to take responsibility for the consequences of its choices. It needs to be willing to accept small tradeoffs on profit. And I think just that act of being able to admit that it’s a mixed bag is important. And I think what we saw from [inaudible 00:43:06] last week is an example of the kind of behavior we need to support Facebook and growing out of, which is instead of just focusing on all the good they do, admit they have responsibilities to also remedy the harm.
+
+Mr. Chairman Blumenthal: (43:19)
+But Mark Zuckerberg’s new policy is no apologies, no admissions, no acknowledgement. Nothing to see here. We’re going to deflect it and go sailing. I turn to the ranking member.
+
+Ranking Member Senator Blackburn: (43:36)
+Thank you, Mr. Chairman, thank you for your testimony. I want to stay with Ms. Davis and some of her comments, because I had asked her last week about the underage users and she had made the comment, I’m going to quote from her testimony, “If we find an account of someone who’s under 13, we remove them. In the last three months, we removed 600,000 accounts of under 13 year olds.” And I have to tell you, it seems to me that there’s a problem if you have 600,000 accounts from children who ought not to be there in the first place. So what did Mark Zuckerberg know about Facebook’s plans to bring kids on as new users and advertise to them?
+
+Miss Frances Haugen: (44:30)
+There are reports within Facebook that show cohort analysis were where they examine at what ages do people join Facebook and Instagram. And based on those cohort analyses, so Facebook likes to say children lie about their ages to get onto the platform. The reality is enough kids tell the truth that you can work backwards to figure out what a are approximately the real ages of anyone who’s on the platform. When Facebook does cohort analyses and looks back retrospectively, it discovers things like up to 10 to 15% of even 10 year olds in a given cohort may be on Facebook or Instagram.
+
+Ranking Member Senator Blackburn: (45:12)
+Okay. So this is why Adam Mosseri, who’s the CEO of Instagram would have replied to Jojo Siwa when she said to him, “Oh, I’ve been on Instagram since I was eight.” He said he didn’t want to know that. So it would be for this reason, correct?
+
+Miss Frances Haugen: (45:32)
+A pattern of behavior that I saw at Facebook was that often problems were so understaffed that there was kind of an implicit discouragement from having better detection systems. So for example, my last team at Facebook was on the counter espionage team within the threat intelligence org. And at any given time, our team could only handle a third of the cases that we knew about. We knew that if we built E even a basic detector, we would likely have many more cases.
+
+Ranking Member Senator Blackburn: (46:02)
+Then let me ask you.
+
+Miss Frances Haugen: (46:04)
+Sure. Yeah.
+
+Ranking Member Senator Blackburn: (46:04)
+Yeah. Let me ask you this. So you look at the way that they have the data, but they’re choosing to keep that data and advertise from it, right? And sell it to third parties. So what does FA Facebook do? You’ve got these 600,000 accounts that ought not to be on there.
+
+Miss Frances Haugen: (46:25)
+Probably more.
+
+Ranking Member Senator Blackburn: (46:28)
+Right. But then you delete those accounts, but what happens to that data? Does Facebook keep that data? Do they keep it until those children go to age 13? Since, as you’re saying, they can work backward and figure out the true age of a user. So what do they do with it? Do they delete it? Do they store it? Do they keep it? How do they process that?
+
+Miss Frances Haugen: (46:59)
+My understanding of Facebook’s data retention policies, and I want to be really clear: I didn’t work directly on that, is that when they delete an account, they delete all the data of it in, I believe 90 days in compliance with GDPR. With regard to children underage on the platform, Facebook could do substantially more to detect more of those children and they should have to publish for Congress, those processes, because there are lots of subtleties and those things, and they could be much more effective than probably what they’re doing today.
+
+Ranking Member Senator Blackburn: (47:26)
+Got it. Now, staying with this underage children, since this hearing is all about kid and about online privacy. I want you to tell me how Facebook is able to do market research on these children that are under age 13, because Ms. Davis, she didn’t deny this last week. So how are they doing this? Do they bring kids into focus groups with their parents? How do they get that permission? She said, they got permission from parents. Is there a permission slip or a form that gets signed? And then how do they know which kids to target?
+
+Miss Frances Haugen: (48:20)
+There’s a bunch to unpack there. We’ll start with maybe how did they recruit children for focus groups, or recruit teenagers. Most tech companies have systems where they can analyze the data that is on their servers. So most of the focus groups I read or that I saw analysis of were around Messenger Kids, which has children on it. And those focus groups appear to be children interacting in person. Often large tech companies use either sourcing agencies that will go and identify people who meet certain demographic criteria, or they will reach out directly based on data on the platform. So for example, on the case of Messenger Kids, maybe you would want to study a child that was an active user and one that was a less active user. You might reach out to some that came from each population.
+
+Ranking Member Senator Blackburn: (49:11)
+And so these are children that are under age 13?
+
+Miss Frances Haugen: (49:13)
+Yeah.
+
+Ranking Member Senator Blackburn: (49:15)
+And they know it.
+
+Miss Frances Haugen: (49:17)
+For some of these studies. And I assume they get permission, but I don’t work on that.
+
+Ranking Member Senator Blackburn: (49:21)
+Okay. Well, we’re still waiting to get a copy of that parental consent form that would involve children. My time is expired, Mr. Chairman, I’ll save my other questions for our second round if we’re able to get those. Thank you. Thank
+
+Mr. Chair: (49:35)
+Great. Thank you, Senator Blackburn. Senator Klobuchar.
+
+Senator Klobuchar: (49:37)
+CLO patrol. Thank you very much, Mr. Chairman. Thank you so much, Ms. Haugen for shedding a light on how Facebook time and time again has put profit over people. When their own research found that more than 13% of teen girls say that Instagram made their thoughts of suicide worse, what did they do? They proposed Instagram for kids, which has now been put on pods because of public pressure. When they found out that their algorithms are fostering polarization, misinformation, and hate, that they allowed 99 per of their violent contact to remain unchecked on their platform, including lead up to the January 6th insurrection, what did they do? They now, as we know, Mark Zuckerberg’s going sailing and saying, no apologies. I think the time has come for action, and I think you are the catalyst at action. You have said privacy legislation is not enough. I completely agree with you.
+
+Senator Klobuchar: (50:36)
+But I think you know, we have not done anything to update our privacy laws in this country, our federal privacy laws, nothing, zilch in any major way. Why? Because there are lobbyists around every single corner of this building that have been hired by the tech industry. We have done nothing when it comes to making the algorithms more transparent, allowing for the university research that you refer to. Why? Because Facebook and the other tech companies are throwing a bunch of money around this town and people are listening to that. We have done nothing significantly past, although we are on a bipartisan basis, working in the Antitrust Subcommittee to get something done on consolidation, which you understand allows the dominant platforms to control all this like the bullies in the neighborhood, buy out the companies that maybe could have competed with them and added the bells and whistles.
+
+Senator Klobuchar: (51:28)
+So the time for action is now. So I’ll start with something that I asked Facebook’s head of safety when she testified before us last week. I asked her how they estimate the lifetime value of a user for kids who start using their products before they turn 13. She a evaded the question and said, “That’s not the way we think about it.” Is that right? Or is it your experience that face book estimates and puts a value on how much money they get from users in general? I’ll get to kids in a second. Is that a motivating force for them?
+
+Miss Frances Haugen: (52:06)
+Based on what I saw in terms of allocation of integrity spending. So one of the things disclosed in the Wall Street Journal was that I believe it’s like 87% of all the misinformation spending is spent on English, but only about like 9% of the users are English speakers. It seems that Facebook invests more in users who make them more money, even though the danger may not be evenly distributed based on profitability.
+
+Senator Klobuchar: (52:28)
+Does it make sense that having a younger person get hooked on social media at a young age makes them more profitable over the long term as they have a life ahead of them?
+
+Miss Frances Haugen: (52:39)
+Facebook’s internal documents talk about the importance of getting younger users, for example, tweens onto Instagram, like Instagram Kids, because they know that children bring their parents online and things like that. And so they understand the value of younger users for the long term success of Facebook.
+
+Senator Klobuchar: (52:58)
+Facebook reported advertising revenue to be $51 and 58 cents per user last quarter in the US and Canada. When I asked Ms. Davis, how much of that came from Instagram users under 18, she wouldn’t say. Do you think that teens are profitable for their company?
+
+Miss Frances Haugen: (53:16)
+I would assume so. Based on advertising for things like television, you get much substantially higher advertising rates for customers who don’t yet have preferences or habits. And so I’m sure they are some of the more profitable users on Facebook, but I do not work directly on that.
+
+Senator Klobuchar: (53:30)
+Another major issue that’s come out of this, eating disorders. Studies have found that eating disorders actually have the highest mortality rate of any mental illness for women. And I led a bill on this with Senators Capito and Baldwin that we passed into law, and I’m concerned that this algorithms that they have pushes outrageous content, promoting anorexia and the like. I know it’s personal to you. Do you think that their algorithms push some of this content to young girls?
+
+Miss Frances Haugen: (54:02)
+Facebook knows that their engagement based ranking, the way that they pick the content in Instagram for young users, for all users, amplifies preferences. And they have done something called a proactive incident response where they take things that they’ve heard, for example, can you be led by the algorithms to anorexia content? And they have literally recreated that experiment themselves and confirmed, yes, this happens to people. So Facebook know that they are leading young users to anorexia content.
+
+Senator Klobuchar: (54:34)
+Do you think they are deliberately designing their product to be addictive beyond even that content?
+
+Miss Frances Haugen: (54:41)
+Facebook has a long history of having a successful and very effective growth division, where they take little tiny tweaks and they constantly, constantly, constantly are trying and optimize it to grow. Those kinds of stickiness could be cons construed as things that facilitate addiction.
+
+Senator Klobuchar: (54:58)
+Last thing I’ll ask is we’ve seen this same kind of content in the political world. You brought up other countries and what’s been happening there. On 60 Minutes, you said that Facebook implemented safeguards to reduce misinformation ahead of the 2020 election, but turned off those safeguards right after the election, and you know that the insurrection occurred January 6th. Do you think that Facebook turned off the safeguards because they were costing the company money, because it was reducing profits?
+
+Miss Frances Haugen: (55:28)
+Facebook has been emphasizing a false choice. They’ve said the safe guards that were in place before the election implicated free speech. The choices that were happening on the platform were really about how reactive and twitchy was the platform, how viral was the platform? And Facebook changed those safety defaults in the run up to the election because they knew they were dangerous. And because they wanted that growth back, they wanted the acceleration of the platform back after the election, they returned to their original defaults, and the fact that they had to break the glass on January 6th and turn them back on, I think that’s deeply problematic.
+
+Senator Klobuchar: (56:06)
+Agree. Thank you very much for your bravery in coming forward.
+
+Mr. Chair: (56:11)
+Senator Thune.
+
+Senator Thune: (56:12)
+Thank you Mr. Chair and ranking member Blackburn. I’ve been arguing for some time that it is time for Congress to act. And I think the question is always what is the correct way to do it, the right way to do it, consistent with our first amendment right to free speech. This committee doesn’t have jurisdiction over the antitrust issue, that’s the Judiciary Committee and I’m not averse to looking at the monopolistic nature of Facebook, honestly, I think that’s a real issue that needs to be examined and perhaps addressed as well. But at least under this committee’s jurisdiction, there are a couple of things I think we can do. And I have a piece of legislation and Senators Blackburn and Blumenthal are both co-sponsors called the Filter Bubble Transparency Act. And essentially what it would do is give users the options to engage with social media platforms without being manipulated by the secret formulas that essentially dictate the content that you see when you open up an app or log onto a website.
+
+Senator Thune: (57:14)
+We also, I think, need to hold big tech accountable by reforming Section 230 and one of the best opportunities I think to do that, at least in a bipartisan way is the Platform Accountability and Consumer Transparency or the PACT Act, and that’s legislation of knife cosponsored with Senator Schatz, which in addition to stripping Section 230 protections for content that a court determines to be illegal, the PACT Act would also increase transparency and due process for users around the content moderation process. And importantly, in the context we’re talking about today with this hearing with a major big tech whistleblower, the PACT Act would explore the viability of a federal program for big tech employees to blow the whistle on wrongdoing inside the companies where they work. And in my view, we should encourage employees in the tech sector like you to speak up about questionable practices of big tech companies.
+
+Senator Thune: (58:07)
+So we can, among other things, ensure that Americans are fully aware of how social media platforms are using artificial intelligence and opaque algorithms to keep them hooked on the platform. So let me Ms. Haugen, just ask you, we’ve learned from the information that you provided that Facebook conducts what’s called engagement based ranking, which you’ve described as very dangerous. Could you talk about why engagement based ranking is dangerous? And do you think Congress should seek to pass the legislation like the Filter Bubble Transparency Act that would give users the ability to avoid engagement based ranking altogether?
+
+Miss Frances Haugen: (58:45)
+Facebook is going to say, “You don’t want to give up engagement based ranking. You’re not going to like Facebook as much if we’re not picking out the content for you.” That’s just not true. Facebook likes to present things as false choices, like you have to choose between having lots of spam. Let’s say, imagine we ordered our feeds by like on iMessage or there are other forms of, of social media that are chronologically based. They’re going to say, “You’re going to get spammed, you’re not going to enjoy your feed.” The reality is that those experiences have a lot of permutations. There are ways that we can make those experiences where computers don’t regulate what we see, we together socially regulate what we see. But they don’t want us to have that conversation because Facebook knows that when they pick out the content that we focus on using computers, we spend more time on their platform, they make more money.
+
+Miss Frances Haugen: (59:42)
+The dangers of engagement based ranking are that Facebook knows that content that elicits an extreme reaction from you is more likely to get a click, a comment or reshare. And it’s interesting because those clicks and comments and reshares aren’t even necessarily for your benefit, it’s because they know that other people will produce more content if they get the likes and comments and reshares. They prioritize content in your feed so that you will give little hits of dopamine to your friends, so they will create more content. And they have run experiments on people, producer side experiments, where they have confirmed this.
+
+Senator Thune: (01:00:19)
+So you and part of the information you provided the wall street journal, it’s been found that Facebook altered its algorithm in an attempt to boost these meaningful social interactions or MSI. But rather than strengthening bonds between family and friends on the platform, the algorithm instead rewarded more outrage and sensationalism. And I think Facebook would say that it’s algorithms are used to connect individuals with other friends and family that are largely positive. Do you believe that Facebook’s algorithms make its platform a better place for most users and should consumers have the option to use Facebook and Instagram without being manipulated by algorithms designed to keep them engaged on that platform?
+
+Miss Frances Haugen: (01:01:02)
+I strongly believe, I’ve spent most of my career working on systems like engagement based ranking. When I come to you and say these things, I’m basically damning 10 years in my own work. Engagement based ranking, Facebook says, “We can do it safely because we have AI. The artificial intelligence will find the bad content that we know our engagement based ranking is promoting.” They’ve written blog posts on how they know engagement based rankings dangerous, but the AI, I will save us. Facebook’s own research, says they cannot adequately identify dangerous content. And as a result, those dangerous algorithms that they admit are picking up the extreme sentiments, the division. They can’t protect us from the harms that they know exist in their own system. And so I don’t think it’s just a question of saying, should people have the option of choosing to not be manipulated by their algorithms? I think if we had appropriate oversight, or if we reformed 230 to make Facebook responsible for the consequences of their intent ranking decisions, I think they would get rid of engagement based ranking because it is causing teenagers to be exposed to more anorexia content, it is pulling families apart. And in places like Ethiopia, it’s literally fanning ethnic violence. I encourage reform of these platforms, not picking and choosing individual ideas, but instead making the platforms themselves safer, less twitchy, less reactive, less viral, because that’s how we scalably solve these problems.
+
+Senator Thune: (01:02:33)
+Thank you. Mr. Chair, I would simply say let’s get to work. So we got some things we can do here. Thanks.
+
+Mr. Chair: (01:02:40)
+I agree. Thank you, Senator Schatz.
+
+Senator Schatz: (01:02:43)
+Thank you, Mr. Chairman, ranking member. Thank you for your courage in coming forward. Was there a particular moment when you came to the conclusion that reform from the inside was impossible and that you decided to be a whistleblower?
+
+Miss Frances Haugen: (01:03:00)
+There was a long series of moments where I became aware that when Facebook conflicts of interest between its own profits and the common good, public safety, that Facebook consistently chose to prioritize its profits. I think the moment in which I realized we needed to get help from the outside, that the only way these problems would be solved is by solving them together and not solving them alone was when civic integrity was dissolved following the 2020 election. It really felt like a betrayal of the promises that Facebook had made to people who had sacrificed a great deal to keep the election safe by basically dissolving our community and integrating it in just other parts of the company.
+
+Senator Schatz: (01:03:41)
+And when I know their responses that they’ve sort of distributed the duties. That’s an excuse, right?
+
+Miss Frances Haugen: (01:03:50)
+I cannot see into the hearts of other men and I don’t know what they-
+
+Senator Schatz: (01:03:55)
+Well, let me say it this way. It won’t work, right?
+
+Miss Frances Haugen: (01:03:58)
+I can tell you that when I left the company, the people who I worked with were disproportionately maybe 75% of my pod of seven people. So those are product managers, program managers, most of them had come from civic integrity. All of us left the inauthentic behavior pod, either for other parts of the company or the company entirely over the same six week period of time. So six months after the reorganization, we had clearly lost faith that those changes were coming.
+
+Senator Schatz: (01:04:27)
+You said in your opening statement that they know how to make Facebook and Instagram safer. So thought experiment: you are now the chief executive officer and chairman of the company. What changes would you immediately Institute?
+
+Miss Frances Haugen: (01:04:45)
+I would immediately establish a policy of how to share information and research from inside the company with appropriate oversight bodies like Congress. I would give proposed legislation to Congress saying, “Here’s what an effective oversight agency would look like.” I would actively engage with academics to make sure that that people who are confirming are Facebook’s marketing messages true, have the information they need to confirm these things. And I would immediately implement the, “Soft interventions,” that were identified to protect the 2020. So that’s things like requiring someone to click on a link before resharing it, because other companies like Twitter have found that that significantly reduces misinformation. No one is censored by being forced to click on a link before resharing it.
+
+Senator Schatz: (01:05:34)
+Thank you. I want to pivot back to Instagram’s targeting of kids. We all that they announced a pause, but that reminds me of what they announced when they were going to issue a digital currency. And they got beat up by the US Senate Banking Committee and they said, nevermind. And now they’re coming back around hoping that nobody notices that they are going to try to issue a currency. Now let’s set aside for the moment the business model, which appears to be gobble up everything, do everything, that’s the growth strategy. Do you believe that they’re actually going to discontinue Instagram Kids or are they just waiting for the dust to settle?
+
+Miss Frances Haugen: (01:06:21)
+I would be sincerely surprised if they do not continue working on Instagram Kids, and I would be amazed if a year from now, we don’t have this conversation again.
+
+Senator Schatz: (01:06:30)
+Why?
+
+Miss Frances Haugen: (01:06:32)
+Facebook understands that if they want to continue to grow, they have to find new users. They have to make sure that the next generation is just as engaged with Instagram as the current one. And the way they’ll do that is by making sure that children establish habits before they have good self regulation.
+
+Senator Schatz: (01:06:51)
+By hooking kids?
+
+Miss Frances Haugen: (01:06:52)
+By hooking kids. I would like to emphasize one of the documents that we send in on problematic use examined the rates of problematic use by age, and that peaked with 14 year olds. It’s just like cigarettes, teenagers don’t have good self off regulation. They say explicitly, “I feel bad when I use Instagram and yet I can’t stop.” We need to protect the kids.
+
+Senator Schatz: (01:07:16)
+Just my final question. I have a long list of misstatements, misdirections and outright lies from the company. I don’t have the time to read them, but you’re are as intimate with all of these deceptions as I am. So I will just jump to the end. If you were a member of this panel, would you believe what Facebook is saying?
+
+Miss Frances Haugen: (01:07:40)
+I would not believe. Facebook has not earned our right to just have blind trust in them. Last week, one of the most beautiful things that I heard on the committee was trust is earned and Facebook has not earned our trust.
+
+Senator Schatz: (01:07:57)
+Thank you.
+
+Mr. Chair: (01:07:59)
+Thanks Senator Schatz. Senator Moran, and then we’ve been joined by the chair, Senator Cantwell, she’ll be next. We’re going to break at about 11:30, if that’s okay because we have a vote and then we will reconvene.
+
+Senator Moran: (01:08:18)
+Mr. Chairman, thank you. The conversation so far reminds me that you and I ought to resolve our differences and introduce legislation. So as Senator Thune said, let’s go to work.
+
+Mr. Chair: (01:08:28)
+Our differences are very minor or they seem very minor in the face of the revelations that we’ve now seen. So I’m hoping we can move forward Senator Moran.
+
+Senator Moran: (01:08:38)
+Right. I share that view, Mr. Chairman. Thank you. Thank you very much for your testimony. What examples do you know? We’ve talked about particularly children, teenage girls specifically, but what other examples do you know about where Facebook or Instagram knew its decisions would be harmful to its users, but still proceeded with the plan and executed that harmful behavior?
+
+Miss Frances Haugen: (01:09:10)
+Facebook’s internal research is aware that there are a variety of problems facing children on Instagram, they know that severe harm is happening to children. For example, in the case of bullying, Facebook knows that Instagram dramatically changes the experience of high school. So when we were in high school, when I was in high school, most kids have-
+
+Mr. Chair: (01:09:35)
+You looked at me and changed your wording.
+
+Miss Frances Haugen: (01:09:39)
+Sorry. When I was in high school, most kids have positive home lives. It doesn’t matter how bad it is at school, kids can go home and reset for 16 hours. Kids who are bullied on Instagram, the bullying follows them home. It follows them into their bedrooms. The last thing they see before they go to bed at night is someone being cruel to them. Or the first thing they see in the morning is someone being cruel to them. Kids are-
+
+Miss Frances Haugen: (01:10:03)
+… where the first thing they see in the morning is someone being cruel to them. Kids are learning that their own friends, people who care about them, are cruel to them. Think about how that’s going to impact their domestic relationships when they become 20-somethings or 30-somethings, to believe that people who care about you are mean to you.
+
+Miss Frances Haugen: (01:10:18)
+Facebook knows that parents today, because they didn’t experience these things, they’d never experienced this addictive experience with a piece of technology, they give their children bad advice. They say things like, “Why don’t you just stop using it?” Facebook’s own research is aware that children express feelings of loneliness and struggling with these things because they can’t even get support from their own parents.
+
+Miss Frances Haugen: (01:10:40)
+I don’t understand how Facebook can know all these things and not escalate it to someone like Congress for help and support in navigating these problems.
+
+Senator Jerry Moran: (01:10:49)
+Let me ask the question in a broader way, besides teenagers or besides girls or besides youth, are there other practices at Facebook or Instagram that are known to be harmful, but yet are pursued?
+
+Miss Frances Haugen: (01:11:05)
+Facebook is aware that choices are made in establishing meaningful social interactions, so engagement-based ranking that didn’t care if you bullied someone or committed hate speech in the comments. That was meaningful. They know that that change directly changed publishers’ behavior. That companies like BuzzFeed wrote in and said the content is most successful on our platform is some of the content we’re most ashamed of. You have a problem with your ranking. They did nothing.
+
+Miss Frances Haugen: (01:11:32)
+They know that politicians are being forced to take positions they know their own constituents don’t like or approve of because those are the ones that get distributed on Facebook. That’s a huge, huge, negative impact. Facebook also knows that they have admitted in public that engagement-based ranking is dangerous without integrity and security systems, but then not roll out those integrity and security systems to most of the languages in the world. That’s what causing things like ethnic violence in Ethiopia.
+
+Senator Jerry Moran: (01:12:02)
+Thank you for your answer. What is the magnitude of Facebook’s revenues or profits that come from the sale of user data?
+
+Miss Frances Haugen: (01:12:12)
+Oh, I’m sorry. I’ve never worked on that. I’m not aware.
+
+Senator Jerry Moran: (01:12:14)
+Thank you. What regulations or legal actions by Congress or by administrative action, do you think would have the most consequence or be feared most by Facebook, Instagram or allied companies?
+
+Miss Frances Haugen: (01:12:29)
+I strongly encourage reforming Section 230 to exempt decisions about algorithms, right? Modifying 230 around content I think has… It’s very complicated because user-generated content is something that companies have less control over. They have a hundred percent control over their algorithms, and Facebook should not get a free pass on choices it makes to prioritize growth and virality and reactiveness over public safety. They shouldn’t get a free pass on that because they’re paying for their profits right now with our safety. I strongly encourage reform of 230 in that way.
+
+Miss Frances Haugen: (01:13:09)
+I also believe there needs to be a dedicated oversight body because right now the only people in the world who are trained to analyze these experiments to understand what’s happening inside of Facebook are people who grew up inside of Facebook or Pinterest or another social media company. There needs to be a regulatory home where someone like me could do a tour of duty after working at a place like this and have a place to work on things like regulation to bring that information out to the oversight boards that have the right to do oversight.
+
+Senator Jerry Moran: (01:13:39)
+A regulatory agency within the federal government?
+
+Miss Frances Haugen: (01:13:41)
+Yes.
+
+Senator Jerry Moran: (01:13:42)
+Thank you very much. Thank you, chairman.
+
+Senator Richard Blumenthal: (01:13:45)
+Senator Cantwell.
+
+Senator Maria Cantwell: (01:13:46)
+Thank you-
+
+Senator Richard Blumenthal: (01:13:46)
+Thank you, Senator Moran.
+
+Senator Maria Cantwell: (01:13:46)
+… Mr. Chairman. Thank you for holding this hearing. I think my colleagues have brought up a lot of important issues, and so I think I just want to continue on that vein. First of all, the privacy act that I introduced along with several of my colleagues actually does have FTC oversight of algorithm transparency. In some instances, I’d hope you’d take a look at that and tell us what other areas you think we should add to that level of transparency. But clearly that’s the issue at hand here, I think, in your coming forward, so thank you again for your willingness to do that.
+
+Senator Maria Cantwell: (01:14:21)
+The documentation that you say now exists is the level of transparency about what’s going on that people haven’t been able to see. Your information that you say as gone up to the highest levels at Facebook is that they purposely knew that there are algorithms were continuing to have misinformation and hate information and that when presented with information about this terminology, downstream MSI, meaningful social information, knowing that it was this choice, you could continue this wrong-headed information, hate information about the Rohingya, or you could continue to get higher click-through rates.
+
+Senator Maria Cantwell: (01:15:06)
+I know you said you don’t know about profits, but I’m pretty sure you know that on a page, if you click through that next page, I’m pretty sure there’s a lot more ad revenue than if you didn’t click through. You’re saying the documents exists that at the highest level at Facebook, you had information discussing these two choices and that people chose, even though they knew that it was misinformation and hurtful and maybe even causing people lives, they continued to choose profit?
+
+Miss Frances Haugen: (01:15:34)
+We have submitted documents to Congress, outlining Mark Zuckerberg was directly presented with a list of “soft interventions.” So a hard intervention is like taking a piece off content on Facebook, taking a user off Facebook. Soft interventions are about making slightly different choices to make the platform less viral, less twitchy. Mark was presented with these options and chose to not remove downstream MSI in April of 2020, even though he… And even just isolated in at-risk countries, that’s countries at risk of violence, if it had any impact on the overall MSI metric. So he chose-
+
+Senator Maria Cantwell: (01:16:14)
+Which in translation means less money?
+
+Miss Frances Haugen: (01:16:16)
+Yeah. He said-
+
+Senator Maria Cantwell: (01:16:18)
+… right? Was there another reason given why they would do it other than they thought it would really affect their numbers?
+
+Miss Frances Haugen: (01:16:25)
+I don’t know for certain. Jeff Horwitz, the reporter for The Wall Street Journal, and I struggled with this because we sat there and read these minutes, and we were like, “How is this possible? We’ve just read a hundred pages on how downstream MSI expands hate speech, misinformation, violence inciting content, graphic violent content, why wouldn’t you get rid of this?” The best theory that we’ve come up with, and I want to emphasize, this is just our interpretation on it, is people’s bonuses are tied to MSI, right? People stay or leave the company based on what they get paid. If you hurt MSI, a bunch of people weren’t going to get their bonuses.
+
+Senator Maria Cantwell: (01:17:02)
+So you’re saying that this practice even still continues today? We’re still in this environment.
+
+Miss Frances Haugen: (01:17:07)
+Oh, yeah.
+
+Senator Maria Cantwell: (01:17:07)
+I’m personally very frustrated by this because we presented information to Facebook from one of my own constituents in 2018 talking about this issue with the Rohingya, pleading with the company. We pleaded with the company, and they continued to not address this issue. Now, you’re pointing out that these same algorithms are being used, and they know darn well in Ethiopia that it’s causing and inciting violence and again, they are still today choosing profit over taking this information down. Is that correct?
+
+Miss Frances Haugen: (01:17:40)
+When writing beyond the United States in the summer of last year, they turned off downstream MSI only for when they detected content was health content, which is probably COVID, and civic content, but Facebook’s own algorithms are bad at finding this content. It’s still in the raw form for 80, 90% of even that sensitive content. In countries where they don’t have integrity systems in the local language and in the case of Ethiopia, there are a hundred million people in Ethiopia and six languages. Facebook only supports two of those languages for integrity systems. This strategy of focusing on language-specific content for specific systems, AI to save us, is doomed to fail.
+
+Senator Maria Cantwell: (01:18:22)
+I need to get to one of the… First of all, I’m sending a letter to Facebook today. They better not delete any information as it relates to the Rohingya, or investigations about how they proceeded on this, particularly in light of your information or the documents, but aren’t we also now talking about advertising fraud? Aren’t you selling something to advertisers that’s not really what they’re getting?
+
+Senator Maria Cantwell: (01:18:42)
+We know about this because of the newspaper issues. We’re trying to say that journalism that basically has to meet a different standard, a public interest standard, that basically is out there basically proving every day, or they can be sued. These guys are a social media platform that doesn’t have to live with that. Then the consequences they’re telling their advertisers that this was… We see it. People are coming back to the local journalism because they’re like, “We want to be with a trusted brand. We don’t want to be in your website.”
+
+Senator Maria Cantwell: (01:19:11)
+I think your finding for the SEC is an interesting one, but I think that we also have to look at what are the other issues here. One of them is, did they defraud advertisers in telling them this was the advertising content that you were going to be advertised again, when in reality it was something different? It was based on a different model.
+
+Miss Frances Haugen: (01:19:28)
+We have multiple examples of question and answers for the advertising staff, the sales staff, where advertisers say after the riots last summer were asked, should we come back to Facebook, or after the insurrection, should we come back to Facebook? Facebook said in their talking points that they gave to advertisers, “We are doing everything in our power to make this safer,” or “We take down all the hate speech when we find it,” but Facebook’s own-
+
+Senator Maria Cantwell: (01:19:52)
+That was not true.
+
+Miss Frances Haugen: (01:19:53)
+That was not true. They get three to 5% of hate speech.
+
+Senator Maria Cantwell: (01:19:56)
+Thank you. Thank you, Mr. Chairman.
+
+Senator Richard Blumenthal: (01:19:58)
+Thanks, Senator Cantwell. If you want to make your letter available to other members of the committee, I’d be glad to join you myself, and thank you for suggesting it.
+
+Senator Maria Cantwell: (01:20:09)
+Thank you.
+
+Senator Richard Blumenthal: (01:20:11)
+Senator Lee.
+
+Senator Mike Lee: (01:20:14)
+Thank you, Mr. Chairman, and thank you, Ms. Haugen, for joining us this week. It’s very, very helpful. We’re grateful that you’re willing to make yourself available. Last week we had another witness from Facebook, Ms. Davis. She came, and she testified before this committee, and she focused on, among other things, the extent to which Facebook targets ads to children, including ads that are either sexually suggestive or geared toward adult-themed products or themes in general.
+
+Senator Mike Lee: (01:20:46)
+Now, while I appreciated her willingness to be here, I didn’t get the clearest answers in response to some of those questions, and so I’m hoping that you can help shed some light on some of those issues related to Facebook’s advertising processes here today. As we get into this, I want to first read you a quote that I got from Ms. Davis last week. Here’s what she said during her questioning. “When we do ads to young people, there are only three things that an advertiser can target around: age, gender, location. We also prohibit certain ads to young people, including weight-loss ads. We don’t allow tobacco ads at all [meaning to young people]. We don’t allow them to children. We don’t allow them to minors.”
+
+Senator Mike Lee: (01:21:34)
+Now, since that exchange happened last week, there are a number of individuals and groups, including a group called the Technology Transparency Project or TTP, that have indicated that that part of her testimony was inaccurate. That it was false. TTP noted that TTP had conducted an experiment just last month, and their goal was to run a series of ads that would be targeted to children ages 13 to 17, to users in the United States. Now, I want to emphasize that TTP didn’t end up running these ads. They stopped them from being distributed to users, but Facebook did in fact approve them. As I understand it, Facebook approved them for an audience of up to 9.1 million users, all of whom were teens.
+
+Senator Mike Lee: (01:22:31)
+I brought a few of these to show you today. This is the first one I wanted to showcase. This first one has a colorful graphic encouraging kids to, “Throw a Skittles party like no other,” which as the graphic indicates, and as the slang jargon also independently suggests, this involves kids getting together randomly to abuse prescription drugs. The second graphic displays an ana tip. That is a tip specifically designed to encourage and promote anorexia. It’s on there. Now the language, the ana tip itself independently promotes that. The ad also promotes it in so far as it was suggesting. These are images you ought to look at when you need motivation to be more anorexic, I guess you could say. Now the third one invites children to find their partner online and to make a love connection. “You look lonely. Find your partner now to make a love connection.”
+
+Senator Mike Lee: (01:23:38)
+Now look, it’d be an entirely different kettle of fish if this were targeted to an adult audience. It is not. It’s targeted to 13 to 17-year-olds. Now, obviously I don’t support and TTP does not support these messages, particularly when targeted to impressionable children. Again, just to be clear, TTP did not end up pushing the ads out after receiving Facebook’s approval, but it did in fact receive Facebook’s approval. I think this says something. One could argue that it proves that Facebook is allowing and perhaps facilitating the targeting of harmful adult-themed ads to our nation’s children.
+
+Senator Mike Lee: (01:24:23)
+Could you please explain to me, Ms. Haugen, how these ads with a target audience of 13 to 17 year old children, how would they possibly be approved by Facebook, and is AI involved in that?
+
+Miss Frances Haugen: (01:24:45)
+I did not work directly on the ad approval system. What was resonant for me about your testimony is Facebook has a deep focus on scale. Scale is can we do things very cheaply for a huge number of people, which is probably why they rely on AI so much.
+
+Miss Frances Haugen: (01:25:03)
+It is very possible that none of those ads were seen by a human. The reality is that we’ve seen from repeated documents within my disclosures is that Facebook’s AI systems only catch a very tiny minority of offending content and best-case scenario in the case of something like hate speech, at most they will ever get 10 to 20%. In the case of children, that means drug paraphernalia ads like that. It’s likely if they rely on computers and not humans, they will also likely never get more than 10 to 20% of those ads.
+
+Senator Mike Lee: (01:25:34)
+Understood. Mr. Chairman, I’ve got one minor follow-up question. It should be easy to answer. Can I-
+
+Senator Richard Blumenthal: (01:25:40)
+Go ahead.
+
+Senator Mike Lee: (01:25:43)
+While Facebook may claim that it only targets ads based on age, gender, and location, even though these things seem to counteract that, but let’s set that aside for a minute, and that they’re not basing ads based on specific interest categories. Does Facebook still collect interest category data on teenagers, even if they aren’t at that moment targeting ads at teens based on those interest categories?
+
+Miss Frances Haugen: (01:26:16)
+I think it’s very important to differentiate between what targeting are advertisers allowed to specify and what targeting Facebook may learn for an ad. Let’s imagine you had some text on an ad. It would likely extract out features that it thought was relevant for that ad.
+
+Miss Frances Haugen: (01:26:31)
+For example, in the case of something about partying, it would learn partying is a concept. I’m very suspicious that personalized ads are still not being delivered to teenagers on Instagram because the algorithms learn correlations. They learn interactions where your party ad may still go to kids interested in partying because Facebook almost certainly has a ranking model in the background that it says this person wants more party-related content.
+
+Senator Mike Lee: (01:27:02)
+Interesting. Thank you. That’s very helpful. What that suggests to me is that while they’re saying they’re not targeting teens with those ads, the algorithm might do some of that work for them, which might explain why they collect the data even while claiming that they’re not targeting those ads in that way.
+
+Miss Frances Haugen: (01:27:18)
+I can’t speak to whether or not that’s the intention, but the reality is it’s very, very, very difficult to understand these algorithms today and over and over and over again we saw these biases the algorithms unintentionally learn. So, yeah, it’s very hard to disentangle out these factors as long as you have engagement-based ranking.
+
+Senator Mike Lee: (01:27:48)
+Thank you, Ms. Haugen.
+
+Senator Richard Blumenthal: (01:27:49)
+Thank you very much, Senator Lee. Senator Markey.
+
+Senator Ed Markey: (01:27:50)
+Thank you, Mr. Chairman, very much. Thank you, Ms. Haugen. You are a 21st century American hero-
+
+Miss Frances Haugen: (01:27:55)
+Oh, thank you.
+
+Senator Ed Markey: (01:27:55)
+– warning our country of the danger for young people, for our democracy, and our nation owes you just a huge debt of gratitude for the courage you’re showing here today, so thank you. Ms. Haugen, do you agree that Facebook actively seeks to attract children and teens onto its platforms?
+
+Miss Frances Haugen: (01:28:19)
+Facebook actively markets to children or markets to children under the age of 18 to get on Instagram and definitely targets children as young as eight to be in Messenger Kids.
+
+Senator Ed Markey: (01:28:30)
+An internal Facebook document from 2020 that you revealed reads, “Why did we care about tweens? They are a valuable but untapped audience.” So Facebook only cares about children to the extent that they are of monetary value.
+
+Senator Ed Markey: (01:28:48)
+Last week, Facebook’s global head of safety, Antigone Davis, told me that Facebook does not allow targeting of certain harmful content to teens. Ms. Davis stated, “We don’t allow weight-loss ads to be shown to people under the age of 18.” Yet a recent study found that Facebook permitted targeting of teens as young as 13 with ads that showed a young woman’s thin waist, promoting websites that glorify anorexia. Ms. Haugen, based on your time at Facebook, do you think Facebook is telling the truth?
+
+Miss Frances Haugen: (01:29:23)
+I think Facebook has focused on scale over safety, and it is likely that they are using artificial intelligence to try to identify harmful ads without allowing the public oversight to see what is the actual effectiveness of those safety systems.
+
+Senator Ed Markey: (01:29:41)
+You unearthed Facebook’s research about its harm to teens. Did you raise this issue with your supervisor?
+
+Miss Frances Haugen: (01:29:49)
+I did not work directly on anything involving teen mental health. This research is freely available to anyone in the company.
+
+Senator Ed Markey: (01:29:56)
+Ms. Davis testified last week, “We don’t allow tobacco ads at all. We don’t allow them to children, either. We don’t allow alcohol ads to minors.” However, researchers also found that Facebook does allow targeting of teens with ads on vaping. Ms. Haugen, based on your time at Facebook, do you think Facebook is telling the truth?
+
+Miss Frances Haugen: (01:30:21)
+I do not have context on that issue. I assume that if they are using artificial intelligence to catch those vape ads, unquestionably ads are making its way through.
+
+Senator Ed Markey: (01:30:30)
+Okay. So from my perspective, listening to you and your incredibly courageous revelations, time and time again, Facebook says one thing and does another. Time and time again, Facebook fails to abide by the commitments that they had made. Time and time again, Facebook lies about what they are doing.
+
+Senator Ed Markey: (01:30:52)
+Yesterday, Facebook had a platform outage, but for years it has had a principles’ outage. It’s only real principle is profit. Facebook’s platforms are not safe for young people. As you said, Facebook is like big tobacco, enticing young kids with that first cigarette, that first social media account designed to hook kids as users for life. Ms. Haugen, your whistleblowing shows that Facebook uses harmful features that quantify popularity, push manipulative influencer marketing, amplify harmful content to teens. Last week, in this committee, Facebook wouldn’t even commit to not using these features on 10-year-olds.
+
+Senator Ed Markey: (01:31:37)
+Facebook is built on computer codes of misconduct. Senator Blumenthal and I have introduced the Kids Internet Design and Safety Act, the KIDS Act. You have asked us to act as a committee and Facebook has scores of lobbyists in the city right now, coming in right after this hearing to tell us we can’t act. They’ve been successful for a decade in blocking this committee from acting.
+
+Senator Ed Markey: (01:32:11)
+Let me ask you a question. The Kids Internet Design and Safety Act or the KIDS Act, here’s what the legislation does. It includes outright bans on children’s app features that, one, quantify popularity with likes and follower counts. Two, promotes influencer marketing, and three, that amplifies toxic posts, and that it would prohibit Facebook from using its algorithms to promote toxic posts. Should we pass that legislation?
+
+Miss Frances Haugen: (01:32:48)
+I strongly encourage reforms that push us towards human scale social media and not computer-driven social media. Those amplification harms are caused by computers choosing what’s important to us, not our friends and family, and I encourage any system that children are exposed to, to not use amplification systems.
+
+Senator Ed Markey: (01:33:08)
+So you agree that Congress has to enact these special protections for children and teens that stop social media companies from manipulating young users and threatening their wellbeing to stop using its algorithm to harm kids. You agree with that?
+
+Miss Frances Haugen: (01:33:24)
+I do believe Congress must act to protect children.
+
+Senator Ed Markey: (01:33:27)
+And children and teens also need a privacy online bill of rights. I’m the author of the Children’s Online Privacy Protection Act of 1998, but it’s only for kids under 13 because the industry stopped me-
+
+Miss Frances Haugen: (01:33:40)
+Wow.
+
+Senator Ed Markey: (01:33:40)
+… from making it age 16 in 1998, because it was already their business model. But we need to update that law for the 21st century. Tell me if this should pass. One, create an online eraser button so that young users can tell websites to delete the data they have collected about them. Two, give young teens under the age of 16 and their parents control of their information. And three, ban targeted ads to children.
+
+Miss Frances Haugen: (01:34:11)
+I support all those actions.
+
+Senator Ed Markey: (01:34:13)
+Thank you. Finally, I’ve also introduced the Algorithmic Justice and Online Platform Transparency Act, which would one, open the hood on Facebook and big tech’s algorithms, so we know how Facebook is using our data to decide what content we see, and two, ban discriminatory algorithms that harm vulnerable populations online like showing employment and housing ads to White people, but not to Black people in our country. Should Congress pass that bill?
+
+Miss Frances Haugen: (01:34:56)
+Algorithmic bias issues are a major issue for our democracy. During my time at Pinterest, I became very aware of the challenges of, like I mentioned before, it’s difficult for us to understand how these algorithms actually act and perform. Facebook is aware of complaints today by people like African-Americans saying that Reels doesn’t give African-Americans the same distribution as White people. Until we have transparency and our ability to confirm ourselves that Facebook’s marketing messages are true, we will not have a system that is compatible with democracy.
+
+Senator Ed Markey: (01:35:32)
+I thank Senator Lee. I agree with you and your line of questionings. I wrote Facebook asking them to explain that discrepancy because Facebook I think is lying about targeting 13 to 15-year-olds. Here’s my message for Mark Zuckerberg. Your time of invading our privacy, promoting toxic content and preying on children and teens is over. Congress will be taking action. You can work with us or not work with us, but we will not allow your company to harm our children and our families and our democracy any longer. Thank you, Ms. Haugen. We will act.
+
+Senator Richard Blumenthal: (01:36:19)
+Thanks, Senator Markey. We’re going to turn to Senator Blackburn, and then we will take a break. I know that there is some interest in another round of questions. Well, maybe we’ll turn to Senator Lujan for his questions before-
+
+Senator Marsha Blackburn: (01:36:41)
+Well, we’ve got Cruz and Scott.
+
+Senator Richard Blumenthal: (01:36:45)
+And we have others, so we’ll come back after the-
+
+Senator Ben Ray Lujan: (01:36:47)
+Mr. Chairman. I have to go to sit in the chair starting at noon today.
+
+Senator Richard Blumenthal: (01:36:53)
+Why don’t we turn to… You had one question.
+
+Senator Marsha Blackburn: (01:36:59)
+I do. I have one question. This relates to what Mr. Markey was asking. Does Facebook ever employ child psychologists or mental health professionals to deal with these children online issues that we’re discussing?
+
+Miss Frances Haugen: (01:37:18)
+Facebook has many researchers with PhDs. I assume some of them are… I know that some have psychology degrees. I’m not sure if they are child specialists. Facebook also works with external agencies that are specialists at children’s rights online.
+
+Senator Marsha Blackburn: (01:37:32)
+Okay, thanks.
+
+Senator Richard Blumenthal: (01:37:34)
+Senator Lujan, and then at the conclusion of Senator Lujan’s questions we’ll take a break. We’ll come back at noon.
+
+Senator Ben Ray Lujan: (01:37:45)
+Thank you, Mr. Chairman, and I appreciate the indulgence of the committee, Ms. Haugen, last week, the committee heard directly from Ms. Davis, the global head of safety for Facebook. During the hearing, the company contested their own internal research as if it does not exist. Yes or no, does Facebook have internal research indicating that Instagram harms teens, particularly harming perceptions of body image, which disproportionately affects young women?
+
+Miss Frances Haugen: (01:38:18)
+Yes, Facebook has extensive research on the impacts of its products on teenagers, including young women.
+
+Senator Ben Ray Lujan: (01:38:24)
+Thank you for confirming these reports. Last week, I requested Facebook make the basis of this research, the dataset minus any personally identifiable information, available to this committee. Do you believe it is important for transparency and safety that Facebook released the basis of this internal research, the core dataset, to allow for independent analysis?
+
+Miss Frances Haugen: (01:38:47)
+I believe it is vitally important for our democracy that we establish mechanisms where Facebook’s internal research must be disclosed to the public on a regular basis, and that we need to have privacy-sensitive datasets that allow independent researchers to confirm whether or not Facebook’s marketing messages are actually true.
+
+Senator Ben Ray Lujan: (01:39:05)
+Beyond this particular research should Facebook make its internal primary research, not just secondary slide decks of cherry-picked data, but the underlying data, public by default, can this be done in a way that respects user privacy?
+
+Miss Frances Haugen: (01:39:19)
+I believe in collaboration with academics and other researchers that we can develop privacy-conscious ways of exposing radically more data that is available today. It is important for our ability to understand how algorithms work, how Facebook shapes the information we get to see that we have these datasets be publicly available for scrutiny.
+
+Senator Ben Ray Lujan: (01:39:38)
+Is Facebook capable of making the right decision here on its own, or is regulation needed to create real transparency at Facebook?
+
+Miss Frances Haugen: (01:39:45)
+Until incentives change at Facebook, we should not expect Facebook to change. We need action from Congress.
+
+Senator Ben Ray Lujan: (01:39:51)
+Last week I asked Ms. Davis about shadow profiles for children on the site, and she answered that no data is ever collected on children under 13 because they are not allowed to make accounts. This tactfully ignores the issue. Facebook knows children use their platform. However, instead of seeing this as a problem to be solved, Facebook views this as a business opportunity. Yes or no, does Facebook conduct research on children under 13, examining the business opportunities of connecting these young children to Facebook’s products?
+
+Miss Frances Haugen: (01:40:22)
+I want to emphasize how vital it is that Facebook should have to publish the mechanisms by which it tries to detect these children because they are on the platform in far greater numbers than anyone is aware. I do believe that, or I am aware that Facebook is doing research on children under the age of 13, and those studies are included in my disclosure.
+
+Senator Ben Ray Lujan: (01:40:41)
+You have shared your concerns about how senior management at Facebook has continuously prioritized revenue over potential user harm and safety. I have a few questions on Facebook’s decision-making. Last week, I asked Ms. Davis, “Has Facebook ever found a change to its platform would potentially inflict harm on users, but Facebook moved forward because the change would also grow users or increase revenue?” Ms. Davis said in response, “It’s not been my experience at all at Facebook. That’s just not how we would approach it.” Yes or no, has Facebook ever found a feature on its platform harmed its users, but the feature moved forward because it would also grow users or increase revenue?
+
+Miss Frances Haugen: (01:41:28)
+Facebook likes to paint that these issues are really complicated. There are lots of simple issues. For example, requiring someone to click through on a link before you reshare it. That’s not a large imposition, but it does decrease growth a tiny little amount because in some countries reshares make up 35% of all the content that people see. Facebook prioritized that content on the system, the reshares, over the impacts to misinformation, hate speech or violence incitement.
+
+Senator Ben Ray Lujan: (01:41:55)
+Did these decisions ever come from Mark Zuckerberg directly or from other senior management at Facebook?
+
+Miss Frances Haugen: (01:42:01)
+We have a few choice documents that contain notes from briefings with Mark Zuckerberg where he chose metrics defined by Facebook like meaningful social interactions, over changes that would have significantly decreased misinformation, hate speech and other inciting content.
+
+Senator Ben Ray Lujan: (01:42:19)
+And this is the reference you shared earlier to Ms. Cantwell, April of 2020?
+
+Miss Frances Haugen: (01:42:23)
+Yeah. The soft interventions.
+
+Senator Ben Ray Lujan: (01:42:26)
+Facebook appears to be able to count on the silence of its workforce for a long time, even as it knowingly continued practices and policies that continue to cause and amplify harm. Facebook content moderators have called out, “a culture of fear and secrecy within the company,” that prevented them from speaking out. Is there a culture of fear at Facebook around whistleblowing and external accountability?
+
+Miss Frances Haugen: (01:42:50)
+Facebook has a culture that emphasizes that insularity is the path forward. That if information is shared with the public, it will just be misunderstood. I believe that relationship has to change. The only way that we will solve these problems is by solving them together, and we will have much better, more democratic solutions if we do it collaboratively than in isolation.
+
+Senator Ben Ray Lujan: (01:43:12)
+My final question, is there a senior level executive at Facebook, like an inspector general, who’s responsible for ensuring complaints from Facebook employees are taken seriously and that employees’ legal, ethical, and moral concerns receive consideration with the real possibility of instigating change to company policies?
+
+Miss Frances Haugen: (01:43:33)
+I’m not aware of that role, but the company is large, and it may exist.
+
+Senator Ben Ray Lujan: (01:43:37)
+I appreciate that. It’s my understanding that there’s a gentleman by the name of Roy Austin who is the vice-president of civil rights who’s described himself as an inspector general, but he does not have the authority to make these internal conflicts public. The oversight board was created by Facebook to review moderation policies related to public content specifically. It was not created to allow employees to raise concerns. Again, another area of interest I believe that we have to act on. I thank you for coming forward today.
+
+Miss Frances Haugen: (01:44:09)
+My pleasure. Happy to serve.
+
+Senator Richard Blumenthal: (01:44:15)
+The committee is in recess.
+
+Mr. Chairman: (02:07:44)
+Welcome back, Ms. Haugen. Thank you for your patience. We’re going to reconvene and we’ll go to Senator Hickenlooper.
+
+Senator Hickenlooper: (02:07:55)
+Thank you, Mr. Chair. Thank you, Ms. Haugen for your direct answers and for being willing to come out and provide such clarity on so many of these issues. Obviously, Facebook can manipulate its algorithms to attract users. And I guess my question would be, do you feel in your humble opinion that simply maximizing profits, no matter the societal impact, that is justified? And I think the question then would be… That’s the short question, which I think I know the answer. What impact to Facebook’s bottom line would it have if the algorithm was changed to promote safety and to change to save the lives of young women, rather than putting them at risk.
+
+Miss Frances Haugen: (02:08:54)
+Facebook today… I’m learning about the talk button. Facebook today makes approximately $40 billion a year in profit. A lot of the changes that I’m talking about are not going to make Facebook an unprofitable company. It just won’t be a ludicrously profitable company like it is today. Engagement-based ranking, which causes those amplification problems that leads young women from innocuous topics like healthy recipes to anorexia content. If it were removed, people would consume less content on Facebook. But Facebook would still be profitable. And so I encourage oversight and public scrutiny into how these algorithms work and the consequences of them.
+
+Senator Hickenlooper: (02:09:45)
+Right. And I appreciate that. I’m a former small business owner.
+
+Miss Frances Haugen: (02:09:49)
+Yeah.
+
+Senator Hickenlooper: (02:09:51)
+Started a brewpub back in 1988 and we worked very hard to look… Again, we weren’t doing investigations, but we were very sensitive to whether someone had had too much to drink, whether we had a frequent customer who was frequently putting himself at risk and others. Obviously, I think the Facebook business model, it poses risk to youth and to teens. You compared it to cigarette companies, which I thought was rightfully so. I guess the question is, is this level of risk appropriate? Or is there a level of risk that would be appropriate?
+
+Miss Frances Haugen: (02:10:36)
+I think there is an opportunity to reframe some of these oversight actions. So when we think of them as these trade offs of it’s either profitability or safety, I think that’s a false choice. And in reality, the thing asking for is a move from short-termism, which is what Facebook is run under today, right? Is being led by metrics and not led by people. And that with appropriate oversight in some of these constraints, it’s possible that Facebook could actually a much more profitable company five or 10 years down the road because it wasn’t as toxic. Not as many people quit it. But one of those counterfactuals that we can’t actually test. So regulation might actually make Facebook more profitable over the long term.
+
+Senator Hickenlooper: (02:11:16)
+Right. And that’s often the case.
+
+Miss Frances Haugen: (02:11:17)
+Yeah.
+
+Senator Hickenlooper: (02:11:18)
+I think the same could be said for automobiles and go down the list.
+
+Miss Frances Haugen: (02:11:20)
+Exactly.
+
+Senator Hickenlooper: (02:11:21)
+The seatbelt, all those things.
+
+Miss Frances Haugen: (02:11:24)
+Yeah.
+
+Senator Hickenlooper: (02:11:25)
+That there’s so much pushback in the beginning. I also thought that the question of, how do we assess the impact to their bottom line? We had a representative of Facebook in here recently who talked about that eight out of 10 Facebook users feel their life is better, and that their job to get to 10 out of 10. Maybe this is the 20% that they’re missing. I don’t know how large the demographic is of people that are caught back up into this circuitous sense of really taking them down into the wrong direction. How many people that is. Do you have any idea?
+
+Miss Frances Haugen: (02:12:06)
+That quote last week was really shocking to me, because I don’t know if you’re aware of this, but in the case of cigarettes, only about 10% of people who smoke ever get lung cancer. Right? So the idea that 20% of your users could be facing serious mental health issues and that’s not a problem is shocking. I also want to emphasize for people that eating disorders are serious, right? There are going to be women walking around this planet in 60 years with brittle bones because of choices that Facebook made around emphasizing profit today. Or there are going to be women in 20 years who want to have babies who can’t because they’re infertile as a result of eating disorders today. They’re serious. And I think there’s an opportunity here for having public oversight and public involvement, especially in matters that impact children.
+
+Senator Hickenlooper: (02:12:51)
+Okay. Well, thank you for being so direct on this and for stepping forward.
+
+Miss Frances Haugen: (02:12:55)
+Mm-hmm (affirmative).
+
+Senator Hickenlooper: (02:12:56)
+I yield back the floor to Chair.
+
+Mr. Chairman: (02:12:58)
+Thanks, Senator Hickenlooper. Senator Cruz.
+
+Senator Cruz: (02:13:02)
+Thank you, Mr. Chairman. Ms. Haugen, welcome. Thank you for your testimony. When it concerns Facebook, there are a number of concerns that this committee and Congress has been focused on. Two of the biggest have been Facebook’s intentional targeting of kids with content that is harmful to the children.
+
+Miss Frances Haugen: (02:13:20)
+Mm-hmm (affirmative).
+
+Senator Cruz: (02:13:21)
+And then secondly, and a discrete issue, is the pattern of Facebook and social media engaging in political censorship. I want to start with the first issue.
+
+Miss Frances Haugen: (02:13:31)
+Mm-hmm (affirmative).
+
+Senator Cruz: (02:13:31)
+Targeting kids. As you’re aware, as indeed the documents that you provided indicated, according to the public reporting on it, Facebook’s internal reports found that Instagram makes “body image issues worse for one in three teen girls.” And additionally, it showed that 13% of British users and 6% of American users trace their desire to kill themselves to Instagram. Is that a fair and accurate characterization of what Facebook’s research concluded?
+
+Miss Frances Haugen: (02:14:12)
+I only know what I read in the documents that were included in my disclosure. That is an accurate description of the ones that I have read. Because Facebook has not come forward with the total corpus of their known research, I don’t know what their other things say. But yes, there is documents that say those things.
+
+Senator Cruz: (02:14:29)
+So we had testimony last week in the Senate with a witness from Facebook who claimed that that information was not accurate and needed to be in context. Now, of course she wasn’t willing to provide the context, the alleged mysterious context. Do you know of any context that would make those data anything other than horrifying and deeply disturbing?
+
+Miss Frances Haugen: (02:14:51)
+Engagement-based ranking and these processes of amplification, they impact all users of Facebook. The algorithms are very smart in the sense that latch onto things that people want to continue to engage with. And unfortunately, in the case of teen girls and things like self harm, they develop these feedback cycles where children are using Instagram as to self-soothe, but then are exposed to more and more content that makes them hate themselves. This is a thing where we can’t say 80% of kids are okay. We need to say how do save all the kids?
+
+Senator Cruz: (02:15:23)
+The Wall Street Journal reported that Mark Zuckerberg was personally aware of this research. Do you have any information one way or the other as to Mr. Zuckerberg’s awareness of the research?
+
+Miss Frances Haugen: (02:15:35)
+Excuse me. One of the documents included in the disclosures, it details something called Project Daisy, which is a initiative to remove likes off of Instagram. The internal research showed the removing likes off Instagram is not effective as long as you leave comments on those posts. And yet the research directly presented to Mark Zuckerberg said, “We should still pursue this as a feature to launch even though it’s not effective, because the government, journalists, academics want us to do this.” It would get us positive points with the public. That kind of duplicity is why we need to have more transparency. And why, if we want to have a system that is coherent with democracy, we must have public oversight from Congress.
+
+Senator Cruz: (02:16:20)
+Do you know if Facebook, any of the research it conducted, attempted to quantify how many teenage girls may have taken their lives because of Facebook’s products?
+
+Miss Frances Haugen: (02:16:29)
+I am not aware of that research.
+
+Senator Cruz: (02:16:32)
+Do you know if Facebook made any changes when they got back that 13% of British users and 6% of American users trace their desire to kill themselves to Instagram? Do you know if they made any changes in response to that research to try to correct or mitigate that?
+
+Miss Frances Haugen: (02:16:48)
+I found it very surprising that when Antonia Davis was confronted with this research last week, she couldn’t enumerate a five point plan, a 10 point plan of the actions that they took. I also find it shocking that once Facebook had this research, it didn’t disclose it to the public. Because this is the kind of thing that should have oversight from Congress.
+
+Senator Cruz: (02:17:06)
+So when you were at Facebook, were there discussions about how to respond to this research?
+
+Miss Frances Haugen: (02:17:11)
+I did not work directly on issues concerning children. These are just documents that were freely available in the company. So I am not aware of that.
+
+Senator Cruz: (02:17:17)
+Okay. Do you have thoughts as to what kind of changes Facebook could make to reduce or eliminate these harms?
+
+Miss Frances Haugen: (02:17:27)
+You mentioned earlier concerns around free speech. A lot of the things that I advocate for are around changing the mechanisms of amplification, not around picking winners and losers in the marketplace of ideas. The problems that are-
+
+Senator Cruz: (02:17:40)
+So explain what that means.
+
+Miss Frances Haugen: (02:17:41)
+Oh, sure. So, like I mentioned before, you know how on Twitter you have to click through on a link before you reshare it? Small actions like that friction don’t require picking good ideas and bad ideas, they just make the platform less twitchy, less reactive. And Facebook’s internal research says that each one of those small actions dramatically reduces misinformation, hate speech and violence inciting content on the platform.
+
+Senator Cruz: (02:18:07)
+And we’re running out of time. But on the second major topic of concern of Facebook, which is censorship. Based on what you’ve seen, are you concerned about political censorship at Facebook and in big tech?
+
+Miss Frances Haugen: (02:18:19)
+I believe you cannot have a system that has as big an impact on society as Facebook does today with as little transparency as it does. I’m a strong proponent of chronological ranking, ordering by time with a little bit of spam demotion. Because I think we don’t want computers deciding what we focus on, we should have software that is human scaled where humans have conversations together, not computers facilitating who we get to hear from.
+
+Senator Cruz: (02:18:49)
+So how could we get more transparency? What would produce that?
+
+Miss Frances Haugen: (02:18:52)
+I strongly encourage the development of some kind of regulatory body that could work with academics, work with researchers, work with other government agencies to synthesize requests for data that are privacy conscious. This is an area that I’m really passionate about. Because right now, no one can force Facebook to disclose data. And Facebook has been stonewalling us, or even worse, they gave inaccurate data to researchers as the scandal recently showed.
+
+Senator Cruz: (02:19:20)
+What data should they turnover? My time’s expired, so.
+
+Miss Frances Haugen: (02:19:24)
+For example, even data is simple as what integrity systems exist today and how well do they perform? There are lots and lots of people who Facebook is conveying around the world that Facebook’s safety systems apply to their language. And those people aren’t aware that they using a raw, original, dangerous version of Facebook. Just basic actions like transparency would make a huge difference.
+
+Senator Cruz: (02:19:48)
+Thank you.
+
+Mr. Chairman: (02:19:51)
+Thanks Senator Cruz. Senator Lummis.
+
+Senator Lummis: (02:19:55)
+Thank you, Mr. Chairman. And thank you for your testimony. If you were in my seat today instead of your seat, what…
+
+Senator Lummis: (02:20:03)
+If you were in my seat today instead of your seat, what documents or unanswered questions would you seek from Facebook? Especially as it relates to children, but even generally speaking.
+
+Miss Frances Haugen: (02:20:15)
+I think any research regarding what Facebook dubs problematic use, IE the addictiveness of the product, is of vital importance and anything around what Facebook knows about parent’s lack of knowledge about the platform.
+
+Miss Frances Haugen: (02:20:29)
+I only know about the documents that I have seen, right? I did not work on teens or child safety myself, but in the documents that I read, Facebook articulates the idea that parents today are not aware of how dangerous Instagram is, and because they themselves do not live through these experiences, they can’t coach their kids on basic safety things. And so, at a minimum, Facebook should have to disclose what it knows in that context.
+
+Senator Lummis: (02:20:55)
+Okay. So we’re trying to protect individual’s data that they’re gathering, have data privacy, but have transparency in the manner in which the data is used. Can we bridge that gap?
+
+Miss Frances Haugen: (02:21:16)
+Imagine… I think reasonable people can have a conversation on how many people need to see a piece of content before it’s not really private. Like if a hundred thousand people see something, is it private? If 25,000 people see it, is it private? Just disclosing the most popular content on the platform, including statistics around what factors went into the promotion of that content, would cause radically more transparency than we have today on how Facebook chooses what we get to focus on, how they shape our reality.
+
+Senator Lummis: (02:21:47)
+Okay. If our focus is protecting the First Amendment and our rights to free speech, while very carefully regulating data privacy, I’ve heard… There are a number of things that are being discussed in Congress. Everything from antitrust laws to calling Facebook a utility, to the idea that you just raised of a regulatory board of some sort that has authority to, through understanding of the algorithms and how they’re used and other mechanisms that create what we see, the face of Facebook, so to speak…
+
+Senator Lummis: (02:22:43)
+Tell me a little more about how you envision that board working. In your mind, based on your understanding of the company and the ill consequences, what is the best approach to bridging the gap between keeping speech free and protecting individual privacy with regard to data?
+
+Miss Frances Haugen: (02:23:09)
+So I think those issues, they’re independent issues. So we can talk about free speech first, which is having more transparency. Like Facebook has solutions today that are not content-based. And I am a strong advocate for non-content based solutions, because those solutions will also then protect the most vulnerable people in the world. In a place like Ethiopia, where they speak six languages, if you have something that focuses on good ideas and bad ideas, those systems don’t work in diverse places. So investing in non content-based ways to slow the platform down, not only protects our freedom of speech, it protects people’s lives.
+
+Miss Frances Haugen: (02:23:48)
+The second question is around privacy and it’s a question of how can we have oversight and have privacy? There’s lots and lots of research on how to abstract data sets so you’re not showing people’s names. You might not even be showing the content of their post. You might be showing data that is about the content of their post, but not the post itself. There are many ways to structure these data sets that are privacy conscious, and the fact that Facebook has walled off the ability to see even basic things about how the platform performs, or in the case of their past academic research, releasing inaccurate data, or not being clear about how they pulled that data is just part of a pattern of behavior of Facebook hiding behind walls and operating in the shadows. And they have far too much power in our society to be allowed to continue to operate that way.
+
+Senator Lummis: (02:24:34)
+Well, I had heard you make the analogy earlier to the tobacco industry, and I think that that’s an appropriate analogy. I really believe we’re searching for the best way to address the problem. And I’m not sure that it is the heavy hands, like breaking up companies or calling them a utility… Which is why your approach of integrating people who understand the math and the uses of the math with protecting privacy is intriguing to me. So, the more information that you can provide to us about how that might work to actually address the problem, I think would be helpful. So, in my case, this is an invitation to you to provide to my office or the committee information about how we can get at the root of the problem that you’ve identified and can document and… save people’s privacy.
+
+Senator Lummis: (02:25:56)
+So, I extend that invitation to you and I thank you for your testimony. Mr. Chairman, I yield back.
+
+Mr. Chairman Blumenthal: (02:26:02)
+Thanks, Senator Lummis.
+
+Mr. Chairman Blumenthal: (02:26:04)
+Senator Sullivan.
+
+Senator Sullivan: (02:26:11)
+Thank you, Mr. Chairman. And I want to thank our witness here. It’s been a good hearing, a lot of information has been learned, particularly on the issue of how this is impacting our kids. I think we’re going to look back 20 years from now and all of us are going to be like, “What in the hell were we thinking?” when we recognize the damage that it’s done to a generation of kids. Do you agree with that, Ms. Haugen?
+
+Miss Frances Haugen: (02:26:43)
+When Facebook has made statements in the past about how much benefit Instagram is providing to kids’ mental health, like kids are connecting who were once alone, what I’m so surprised about that is, if Instagram is such a positive force, have we seen a golden age of teenage mental health in the last 10 years? No. We’ve seen escalating- [crosstalk 02:27:04]
+
+Senator Sullivan: (02:27:03)
+We’ve seen the opposite, right?
+
+Miss Frances Haugen: (02:27:04)
+We’ve seen escalating rates of suicide and depression amongst teenagers.
+
+Senator Sullivan: (02:27:07)
+And do you think those rates are at least in part driven by the social media phenomenon?
+
+Miss Frances Haugen: (02:27:13)
+There is a broad swath of research that supports the idea that usage of social media amplifies the risk for these mental health harms.
+
+Senator Sullivan: (02:27:21)
+So right now, and this hearing’s helping aluminate it, we are seeing- [crosstalk 02:27:24]
+
+Miss Frances Haugen: (02:27:25)
+And Facebook’s own research shows that.
+
+Senator Sullivan: (02:27:26)
+Right.
+
+Miss Frances Haugen: (02:27:27)
+Yeah.
+
+Senator Sullivan: (02:27:27)
+Say that again, that’s important.
+
+Miss Frances Haugen: (02:27:28)
+I said, “And Facebook’s own research shows that.” Right? The kids are saying, kids are saying, “I am unhappy when I use Instagram and I can’t stop.” That, “If I leave, I’m afraid I’ll be ostracized.”
+
+Senator Sullivan: (02:27:39)
+Right.
+
+Miss Frances Haugen: (02:27:39)
+And that’s so sad.
+
+Senator Sullivan: (02:27:41)
+So they know that.
+
+Miss Frances Haugen: (02:27:42)
+That’s what their research shows.
+
+Senator Sullivan: (02:27:45)
+So what do you think drives them to… I had this discussion with the witness last week and … I think they called it their timeout or stop. I said, “But isn’t that incompatible with your business model? Because your business model is more time online, more eyeballs online.” Isn’t that the fundamental elements of their business model?
+
+Miss Frances Haugen: (02:28:09)
+Facebook has had both an interesting opportunity and a hard challenge from being a closed system. So they have had the opportunity to hide their problems. And like often people do when they can hide their problems, they get in over their heads. And I think Facebook needs an opportunity to have Congress step in and say, “Guess what? You don’t have to struggle by yourself any more. You don’t have to hide these things from us. You don’t have to pretend they’re not problems. You can declare moral bankruptcy, and we can figure out how to fix these things together.” Because we solve problems together, we don’t solve them alone.
+
+Senator Sullivan: (02:28:39)
+And by moral bankruptcy, one of the things that I appreciate, the phrase that the chairman and you have been using, is one of those elements, which is they know this is a problem, they know it’s actually impacting negatively the mental health of the most precious assets we have in America: our youth, our kids. I have three daughters. They know that that is happening, and yet the moral bankruptcy from your perspective is the continuation of this simply because that’s how they make money.
+
+Miss Frances Haugen: (02:29:12)
+I phrase it slightly differently. We have financial bankruptcy because we value people’s lives more than we value money. People get in over their heads and they need a process where they admit they did something wrong, but we have a mechanism where we forgive them and we have a way for them to move forward. Facebook is stuck in a feedback loop that they cannot get out of. They have been hiding this information because they feel trapped, right? They would’ve come forward if they had solutions to these things. They need to admit they did something wrong and that they need help to solve these problems. And that’s what moral bankruptcy is.
+
+Senator Sullivan: (02:29:42)
+Let me ask, I’m going to switch gears here…
+
+Senator Sullivan: (02:29:47)
+What’s your current position right now in terms of, it’s disinformation and counterespionage?
+
+Miss Frances Haugen: (02:29:52)
+My last role at Facebook was in counterespionage.
+
+Senator Sullivan: (02:29:55)
+I’m sorry, your last role. Okay.
+
+Miss Frances Haugen: (02:29:56)
+Yeah. Mm-hmm (affirmative).
+
+Senator Sullivan: (02:29:56)
+So, one of the things, this is a very different topic and I’ve only got a minute or so left, but right now is Facebook… I know Facebook is not allowed in countries like China, but do they provide platforms for authoritarian or terrorist space leaders? Like the Ayatollahs in Iran, that’s the largest state sponsor of terrorism in the world. Or the Taliban. Or Xi Jinping, certainly in my view, our biggest rival for this century; a communist party dictator who’s trying to export his authoritarian model around the world. Do they provide a platform for those kind of leaders who, in my view, clearly don’t hold America’s interests in mind? Does Facebook provide that platform?
+
+Miss Frances Haugen: (02:30:53)
+During my time working with the threat intelligence org, so I was a product manager supporting the counterespionage team, my team directly worked on tracking Chinese participation on the platform. Surveilling, say, weaker populations in places around the world. That you could actually find the Chinese based on them doing these kinds of things.
+
+Senator Sullivan: (02:31:15)
+So, Facebook- [crosstalk 02:31:17].
+
+Senator Sullivan: (02:31:17)
+I’m sorry.
+
+Miss Frances Haugen: (02:31:17)
+We also saw active participation of, say, the Iran government doing espionage on other state actors. So this is definitely a thing that is happening. And I believe Facebook’s consistent under-staffing of the counterespionage information operations and counter-terrorism teams is a national security issue, and I am speaking to other parts of Congress about that.
+
+Senator Sullivan: (02:31:39)
+So you are saying in essence that the platform, whether Facebook knows it or not, is being utilized by some of our adversaries in a way that helps push and promote their interests at the expense of America’s?
+
+Miss Frances Haugen: (02:31:52)
+Yes. Facebook’s very aware that this is happening on the platform. And I believe the fact that Congress doesn’t get a report of exactly how many people are working on these things internally is unacceptable, because you have a right to keep the American people safe.
+
+Senator Sullivan: (02:32:05)
+Great. Thank you very much.
+
+Mr. Chairman Blumenthal: (02:32:08)
+Thanks, Senator Sullivan. You may have just opened an area for another hearing.
+
+Miss Frances Haugen: (02:32:12)
+Sorry. Yeah.
+
+Miss Frances Haugen: (02:32:15)
+I have strong national security concerns about how Facebook operates today.
+
+Senator Sullivan: (02:32:18)
+Well, Mr. Chairman, maybe we should, right? I mean, it’s an important issue.
+
+Mr. Chairman Blumenthal: (02:32:21)
+I’m not being at all facetious. Thank you for your questions on this topic and I know you have a busy schedule, but we may want to discuss this issue with you, members of our committee, at least informally. And if you’d be willing to come back for another hearing, that certainly is within the realm of possibility. I haven’t consulted the ranking member, or the Chairwoman, but thank you for your honesty and your candor on that topic.
+
+Mr. Chairman Blumenthal: (02:32:50)
+Senator Scott.
+
+Senator Scott: (02:32:53)
+Thank you, Chairman.
+
+Senator Scott: (02:32:55)
+First off, thanks for coming forward and thanks for coming forward in a manner that you want to have positive change. That’s not always what happens.
+
+Senator Scott: (02:33:03)
+Earlier this year, I sent a letter to Facebook and other social media platforms asking them to detail the harmful impacts, including the effects on mental health, their platforms have on children and teens. So, your reports reveal that Facebook has been clearly fully aware of this for a while of the harmful impacts, especially on young women. So I think we all agree that’s completely unacceptable, and we’ve got to figure out how we protect the people that are vulnerable in this country from the harmful impacts of Facebook and other social media platforms.
+
+Senator Scott: (02:33:33)
+So, first off, do you think there should be greater consideration for age when it comes to using any social media?
+
+Miss Frances Haugen: (02:33:40)
+I strongly encourage raising age limits to 16 or 18 years old, based on looking at the data around problematic use or addiction on the platform and children’s self-regulation issues.
+
+Senator Scott: (02:33:53)
+So, I think you addressed this a little bit, but why do you think Facebook didn’t address this publicly when they… They figured it out internally that they were having an adverse impact on young people, especially young women. Why didn’t they come forward and say, “We’ve got a problem, we’ve got to figure this out”?
+
+Miss Frances Haugen: (02:34:10)
+I have a huge amount of empathy for Facebook. These are really, really hard questions. And part of why I was saying I think they feel a little trapped and isolated is the problems that are driving negative social comparison on Instagram, Facebook’s own research says Instagram is actually distinctly worse than, say, TikTok or Snapchat or Reddit, because TikTok is about doing fun things with your friends. Snapchat is about faces and augmented reality. Reddit is vaguely about ideas. But Instagram is about bodies and about comparing lifestyles. And so, I think there are real questions where Instagram would have to come in and think hard about their product or about, what is their product about? And I don’t think those answers are immediately obvious, but that’s why I believe we need to solve problems together and not alone, because collaborating with the public will give us better solutions.
+
+Senator Scott: (02:35:04)
+So, do you think Facebook was trying to mitigate the problem?
+
+Miss Frances Haugen: (02:35:09)
+I think within the set of incentives that they were working within, they did the best they could. Unfortunately, those incentives are not sustainable and they are not acceptable in our society.
+
+Senator Scott: (02:35:19)
+Do you think Facebook and other social media platforms ought to be required to report any harmful effects they have on young people?
+
+Miss Frances Haugen: (02:35:26)
+One of the things that I found very interesting after the report in the Wall Street Journal on teen mental health was that a former executive at the company said Facebook needs to be able to have private research. And the part that I was offended by this was Facebook has had some of this research on the negative effects of Instagram on teenagers for years. I strongly support the idea that Facebook should have a year, maybe 18 months, to have private research. But given that they are the only people in the world who can do this kind of research… The public never gets to do it. They shouldn’t be allowed to keep secrets when people’s lives are on the line.
+
+Senator Scott: (02:36:02)
+So- [crosstalk 02:36:02]
+
+Miss Frances Haugen: (02:36:03)
+Because to be clear, if they make $40 billion a year, they have the resources to solve these problems. They’re choosing not to solve them.
+
+Senator Scott: (02:36:09)
+Yeah. Doesn’t that surprise you, they wouldn’t put more effort into this?
+
+Miss Frances Haugen: (02:36:11)
+I know.
+
+Senator Scott: (02:36:11)
+Because you know it’s going to catch up with them eventually, right?
+
+Senator Scott: (02:36:14)
+Why wouldn’t you?
+
+Miss Frances Haugen: (02:36:15)
+Like I mentioned earlier to Senator Hickenlooper, coming in and having oversight might actually make Facebook a more profitable company five or 10 years from now, because toxicity, Facebook’s own research shows, they have something called an integrity holdout. These are people who don’t get protections from integrity systems to see what happens to them. And those people who deal with a more toxic, painful version of Facebook use Facebook less. And so, one could reason a kinder, friendlier, more collaborative Facebook might actually have more users five years from now. So it’s in everyone’s interest.
+
+Senator Scott: (02:36:52)
+I’ve got a bill and there’s a lot of bills that I think we’ve all talked about, but mine’s called the Data Act. It’s going to require express consent from users for large platforms to use algorithms on somebody. You agree with that? I mean, shouldn’t we consent before they get to take everything about us and go sell it? And pick how they send things to us?
+
+Miss Frances Haugen: (02:37:12)
+Mm-hmm (affirmative). For selling personal data, that is an issue I believe people should have substantially more control over. Most people are not well-informed on what the costs, the personal costs of having their data sold are. And so, I worry about pushing that choice back on individual consumers. In terms of should people consent to working with algorithms, I worry that if Facebook is allowed to give users the choice of, do you want to an engagement-based newsfeed or do you want a chronological newsfeed? Like ordered by time, maybe a little spam demotion, that people will choose the more addictive option, that engagement based ranking, even if it is leading their daughters to eating disorders.
+
+Senator Scott: (02:37:56)
+Right. Thank you.
+
+Mr. Chairman Blumenthal: (02:37:58)
+Thanks, Senator Scott. I think we have concluded the first round, unless we’re missing someone who is online?
+
+Mr. Chairman Blumenthal: (02:38:08)
+I’m not hearing anyone. Let’s go to the second round. Thank you again for your patience. I know you have a hard stop, I think at 1:30, so we’ll be respectful of that limitation. And I’ll begin by asking a few questions.
+
+Mr. Chairman Blumenthal: (02:38:26)
+First, let me say, Senator Klobuchar very aptly raised with you the principal obstacle to our achieving legislative reform in the past, which is the tons of money spent on lobbyists and other kinds of influence peddling, to use a pejorative word, that is so evident here in the United States Congress. Some of it’s dark money. Some of it is very overt, but I guess the point I’d like to make to you personally is that your being here really sends a profound message to our nation that one person can really make a difference. One person standing up, speaking out can overcome a lot of those obstacles for us. And you have crystallized, in a way, our consciousness here. You have been a catalyst, I think, for change in a way that we haven’t seen and I’ve been working on these issues for 10, 15 years. And you have raised awareness in a way that I think is very unique. So, thank you not only for your risk-taking and your courage and strength and standing up, but also for the effect that it has had.
+
+Mr. Chairman Blumenthal: (02:39:54)
+And I also want to make another point, and you can tell me whether I’m correct or not.
+
+Miss Frances Haugen: (02:39:57)
+Mm-hmm (affirmative).
+
+Mr. Chairman Blumenthal: (02:39:59)
+I think there are other whistleblowers out there. I think there are other truth-tellers in the tech world who want to come forward, and I think you’re leading by example. I think you are showing them that there’s a path to make this industry more responsible and more caring about kids and about the nature of our public discourse generally, and about the strength of our democracy. And I think you have given them a boost, those whistleblowers out there, in potentially coming forward. I think that’s tremendously important.
+
+Mr. Chairman Blumenthal: (02:40:37)
+I think also, and again, you can tell me if I’m wrong… there are a lot of people in Facebook who are cheering for you, because there are public reports, and I know of some of my friends in this world who tell me that there are people working for Facebook who wish they had the opportunity and the courage to come forward as you have done, because they feel a lot of reservations about the way that Facebook has used the platform, used algorithms, used content and pushed it on kids in this way.
+
+Mr. Chairman Blumenthal: (02:41:21)
+So, those are sort of hypotheses that I hope you can confirm. And I also would like to ask you, because a lot of parents are watching right now. So, you’ve advised us on what you think we should do, the reforms, some of them, that you think we should adopt. Stronger oversight authorized by Congress, better disclosure, because right now Facebook essentially is a black box for most of America.
+
+Miss Frances Haugen: (02:41:57)
+Yes.
+
+Mr. Chairman Blumenthal: (02:41:57)
+Facebook is a black box that’s designed by Mark Zuckerberg, Inc. Mark Zuckerberg and his immediate coterie. And the buck stops with him. And reform of section 203, so there’s some legal responsibilities. So people have a day in court, some kind of recourse legally when they’re harmed by Facebook, because right now, it has this broad immunity. Most of America has no idea, essentially. You can’t sue Facebook. You have no recourse. Most of America doesn’t know about section 230. And if you push a lot of members of Congress, they wouldn’t know either.
+
+Miss Frances Haugen: (02:42:50)
+It’s actually slightly worse than that. Facebook made a statement in an legal proceeding recently, where they said they had the right to mislead the court because they had immunity, right? That 230 gives them immunity, so why should they have to tell the truth about what they’re showing?
+
+Mr. Chairman Blumenthal: (02:43:04)
+Which is kind of contempt- [crosstalk 02:43:07].
+
+Miss Frances Haugen: (02:43:06)
+Shocking.
+
+Mr. Chairman Blumenthal: (02:43:07)
+Well, it is shocking to a lawyer, which some of us are. It’s also utter, disregard and contempt for the rule of law and for the very legal structure that gives them that kind of protection. So, it’s kind of a new low in corporate conduct, at least in court.
+
+Mr. Chairman Blumenthal: (02:43:37)
+So, you’ve provided us with some of the reforms that you think are important. And I think that the oversight goes a long way, because it in turn would make public a lot of what is going on in this black box. But for now, since a lot of teens and tweens will be going home tonight, as you’ve said, to endure the bullying, to feel insecure about themselves, heightened anxiety. They have to live with the real world as it exists right now. And they will be haunted for their lifetimes by these experiences. What would you tell parents right now? What would you advise them about what they can do?
+
+Mr. Chairman Blumenthal: (02:44:27)
+Because they need more tools. And some of the proposals that have been mentioned here would give parents more tools to protect their children. Right now, a lot of parents tell me… they feel powerless. They need more information. They’re way behind their kids and their adeptness online. And they feel that they need to be empowered in some way to protect their kids in the real world, right now in real time. So, I offer you that open-ended opportunity to talk to us a little bit about your thoughts.
+
+Miss Frances Haugen: (02:45:11)
+Very rarely do you have one of these generational shifts where the generation that leads, like parents, who guide their children, have such a different set of experiences that they don’t have the context to support their children in a safe way. There is an active need for schools or maybe the national institutes of health to make established information, where if parents want to learn on how they can support their kids, it should be easy for them to know what is constructive and not constructive. Because Facebook’s own research says kids today feel like they are struggling alone with all these issues, because their parents can’t guide them. And one of the things I’m saddest when I look on Twitter is when people blame the parents for these problems with Facebook. They say, “Just take your kid’s phone away.” And the reality is these issues are a lot more complicated than that. And so, we need to support parents because right now, if Facebook won’t protect the kids, we at least need to help the parents to protect the kids.
+
+Mr. Chairman Blumenthal: (02:46:15)
+Parents are anguished.
+
+Miss Frances Haugen: (02:46:16)
+They are.
+
+Mr. Chairman Blumenthal: (02:46:17)
+About this issue. Parents are hardly uncaring. They need the tools, they need to be empowered. And I think that the major encouragement for reforms is going to come from those parents. And you have pointed out, I think in general, but I’d like you to just confirm for me, this research and the documents containing that research is not only findings and conclusions. It’s also recommendations for changes. What I hear you saying is that again and again and again, these recommendations were just rejected or disregarded, correct?
+
+Miss Frances Haugen: (02:47:07)
+There is a pattern of behavior that I saw at Facebook of Facebook choosing to prioritize its profits over people. And any time that Facebook faced even tiny hits to growth, like 0.1% of sessions, 1% of views, that it chose its profits over safety.
+
+Mr. Chairman Blumenthal: (02:47:25)
+And you mentioned, I think, bonuses tied to downstream MSIs.
+
+Miss Frances Haugen: (02:47:30)
+To core MSI, yeah.
+
+Mr. Chairman Blumenthal: (02:47:31)
+Could you explain what you meant?
+
+Miss Frances Haugen: (02:47:33)
+So, MSI is meaningful social interaction. Facebook’s internal governance is very much based around metrics. So Facebook is incredibly flat, to the point where they have the largest open floor plan office in the world. It’s a quarter of a mile long and one room, right? They believe in flat. And instead of having internal governance, they have metrics that people try to move. In a world like that, it doesn’t matter that we now have multiple years of data saying MSI may be encouraging bad content, might be making spaces where people are scared, where they are shown information that puts them at risk. It’s so hard to dislodge a ruler like that, that yardstick, that you end up in this situation where, because no one is taking leadership, no one is intentionally designing these systems… It’s just many, many people running in parallel, all moving the metric, that these problems get amplified and amplified and amplified. And no one steps in to bring the solutions.
+
+Mr. Chairman Blumenthal: (02:48:33)
+And I just want to finish and then I think we’ve been joined by Senator Young, and then we’ll go to Senator Blackburn and Senator Klobuchar.
+
+Mr. Chairman Blumenthal: (02:48:45)
+I spent a number of years as an attorney general, helping to lead litigation against Big Tobacco. And I came to hear from a lot of smokers, how grateful they were, ironically and unexpectedly, that someone was fighting Big Tobacco because they felt they had been victimized as children. They started smoking when they were 7, 8, 12 years old because Big Tobacco was hooking them. And as we develop the research, very methodically and purposefully addicting them at that early age, when they believed that they would make themselves more popular, that they would be cool and hip if they began smoking and then nicotine hooked them. Now, physiologically, nicotine has addictive properties. What is it about Facebook’s tactics of hooking young people that makes it similar to what Big Tobacco has done?
+
+Miss Frances Haugen: (02:50:00)
+Facebook’s own research about Instagram contains quotes from kids saying, “I feel bad when I use Instagram, but I also feel like I can’t stop.” Right? “I know that the more time I spend on this, the worse I feel, but I just can’t…” They want the next click. They want the next like. The dopamine, the little hits all the time. And I feel a lot of pain for those kids, right? They say they fear being ostracized if they step away from the platform. So imagine you’re in this situation, you’re in this relationship where every time you open the app, it makes you feel worse, but you also fear isolation if you don’t. I think there’s a huge opportunity here to make social media that makes kids feel good, not feel bad, and that we have an obligation to our youth to make sure that they’re safe online.
+
+Mr. Chairman Blumenthal: (02:50:52)
+Thank you.
+
+Mr. Chairman Blumenthal: (02:50:53)
+Senator Young?
+
+Senator Young: (02:50:59)
+Ms. Haugen, thank you for your compelling testimony. In that testimony, you discuss how Facebook generates self-harm and self-hate, especially among vulnerable groups like teenage girls. I happen to be a father of four kids, three daughters, two of whom are teenagers. And as you just alluded to, most adults, myself included, have never been a teenager during the age of Facebook, Instagram, and these other social media platforms. And therefore, I think it can be really hard for many of us to fully appreciate the impact that certain posts may have, including, I would add, on a teen’s mental health. So can you discuss the short and long-term consequences of body image issues on these platforms, please?
+
+Miss Frances Haugen: (02:52:04)
+The patterns that children establish in their teenage years live with them for the rest of their lives. The way they conceptualize who they are, how they conceptualize how they interact with other people, are patterns and habits that they will take with them as they become adults, as they themselves raise children. I’m very scared about the upcoming generation because when you and I interact in person, and I say something mean to you, and I see wince or I see you cry, that makes me less likely to do it the next time, right? That’s a feedback cycle. Online kids don’t get those cues and they learn to be incredibly cruel to each other and they normalize it. And I’m scared of what will their lives look like, where they grow up with the idea that it’s okay to be treated badly by people who allegedly care about them? That’s a scary future.
+
+Senator Young: (02:52:55)
+Very scary future. And I see some evidence of that, as do so many parents, on a regular basis. Are there other specific issues of significant consequence that the general public may not be fully aware of that are impacting vulnerable groups that you’d just like to elevate during this testimony?
+
+Miss Frances Haugen: (02:53:19)
+One of the things that’s hard… For people who don’t look at the data of social networks every day, it can be hard to conceptualize the distribution patterns of harms, or just of usage. There are these things called power laws. It means that a small number of users are extremely intensely engaged on any given topic and most people are just lightly engaged. When you look at things like misinformation, Facebook knows that the people who are exposed to the most misinformation are people who are recently widowed, divorced, moved to a new city, are isolated in some other way.
+
+Miss Frances Haugen: (02:53:57)
+When I worked on civic misinformation, we discussed the idea of the misinformation burden. The idea that when people are exposed to ideas that are not true over and over again, it erodes their ability to connect with the community at large, because they no longer adhere to facts that are consensus reality. The fact that Facebook knows that its most vulnerable users, people who recently widowed, that they’re isolated, that the systems that are meant to keep them safe, like demoting misinformation, stop working when people look at 2000 posts a day, right? And it breaks my heart, the idea that these rabbit holes would suck people down and then make it hard to connect with others.
+
+Senator Young: (02:54:41)
+So, Ms. Haugen, I desperately want to, which is the American impulse, I want to solve this problem.
+
+Miss Frances Haugen: (02:54:47)
+Can do. Yeah.
+
+Senator Young: (02:54:49)
+And I very much believe that Congress not only has a role, but has a responsibility to figure this out. I don’t pretend to have all the answers. I would-
+
+Senator Young: (02:55:03)
+I don’t pretend to have all the answers. I would value your opinion though, as to whether you believe that breaking up Facebook would solve any of the problems that you’ve discussed today, do you think it would?
+
+Miss Frances Haugen: (02:55:15)
+So as an algorithm specialist, so this is someone who designs, algorithm experiences, I’m actually against the breaking up of Facebook, because even looking inside of just Facebook itself, so not even Facebook and Instagram, you see the problems of engagement based ranking repeat themselves. So, the problems here are about the design of algorithms of AI, and the idea that AI is not intelligent. And if you break up Instagram and Facebook from each other, it’s likely… So I used to work on Pinterest. And the thing that we faced from a business model perspective was that advertisers didn’t want to learn multiple advertising platforms, that they got one platform for Instagram and Facebook and whatever, and learning a second one for Pinterest, Pinterest made radically fewer dollars per user. And when I’m of is, right now, Facebook is the internet for lots of the world. If you go to Africa, the internet is Facebook. If you split Facebook and Instagram apart, it’s likely that most advertising dollars will go to Instagram, and Facebook will continue to be this Frankenstein that is altering that is endangering lives around the world. Only, now there won’t be money to fund it. And so, I think oversight and finding collaborative solutions with Congress is going to be key, because these systems are going to continue to exist and be dangerous, even if broken up.
+
+Senator Young: (02:56:35)
+Thank you [inaudible 02:56:35].
+
+Mr. Chairman Blumenthal: (02:56:35)
+Thanks Senator Young. Have Senator Blackburn.
+
+Ranking Member Senator Blackburn: (02:56:40)
+Thank you, Mr. Chairman. I have a text that was just put up by Facebook’s spokesperson, [crosstalk 02:56:49] Andy Stone. It says, “Just pointing out the fact that Francis Haugen did not work on child safety or Instagram, or research these issues and has no direct knowledge of the topic from her work at Facebook.” So I will simply say this to Mr. Stone: if Facebook wants to discuss their targeting of children, if they want to discuss their practices, privacy invasion, or violations of the Children Online Privacy Act, I am extending to you an invitation to step forward, be sworn in, and testify before this committee, we would be pleased to hear from you and welcome your testimony.
+
+Ranking Member Senator Blackburn: (02:57:44)
+One quick question for you, what’s the biggest threat to Facebook’s existence? Is it greed? Is it regulators? Is it becoming extinct or obsolete for teenage users? What is the biggest threat to their existence?
+
+Miss Frances Haugen: (02:58:04)
+I think the fact that Facebook is driven so much biometrics, and that these lead to a very heavy emphasis on short-termism that every little individual decision may seem like it helps with growth, but if it makes it a more and more toxic platform that people don’t actually enjoy, when they passed, “Meaningful social interactions,” back in 2018, Facebook’s own research said that users said it made it less meaningful, right? I think this aggregated set of short term decisions endangers Facebook’s future. Sometimes we need to pull it away from business as usual, help it write new rules if we want it to be successful in the future.
+
+Ranking Member Senator Blackburn: (02:58:45)
+So they can’t see the forest for the trees.
+
+Miss Frances Haugen: (02:58:47)
+Yes, very well put.
+
+Ranking Member Senator Blackburn: (02:58:49)
+Thank you. I know Senator Klobuchar is waiting, so I’ll yield my time back and I thank you. Thanks Senator Blackburn.
+
+Senator Klobuchar: (02:58:57)
+Thank you very much. And thank you to both of you for your leadership and all three of us are on the Judiciary Committee, so we’re also working on a host of other in issues, including the App Store issues, which is unrelated to Facebook, actually, including issues relating to dominant platforms when they promote their own content, or engage in exclude conduct, which I know is not our topic today. I see the thumbs up from you, Ms. Haugen, which I appreciate. And I think this idea of establishing some rules of the road for these tech platforms goes beyond the kid protection that we so dearly need to do. And I just want to make sure you agree with me on that.
+
+Miss Frances Haugen: (02:59:41)
+Yes, literally. I was shocked when I saw the New York Times story a couple weeks ago about Facebook using its own platform to promote positive news about itself. I was like, “Wow, I knew you shaped our reality. I wasn’t aware it was that much.”
+
+Senator Klobuchar: (02:59:53)
+Right. And that’s a lot of the work that we’re doing over there. So I want to get to something Senator Young was talking about; misinformation and Senator Lujan And I have put together an exception actually to the 230 immunity when it comes to vaccine misinformation in the middle of a public health crisis. Last week, YouTube announced it was swiftly banning all anti-vaccine misinformation, and I have long called on Facebook to take similar steps. They’ve taken some steps, but do you think they can remove this content and do they put sufficient resources? We know the effect of this. We know that over half the people that haven’t gotten the vaccines it’s because of something that they’ve seen on social media. I know the guy I walked into a cafe and said his mother-in-law wouldn’t get a vaccine because she thought a microchip would be planted in her arm, which is false. I’m just saying that for the record here, in case it gets put on social media. Could you talk about, are there enough resources to stop this from happening?
+
+Miss Frances Haugen: (03:00:56)
+I do not believe Facebook, as is currently structured, has the capability to stop vaccine misinformation because they’re overly reliant on artificial intelligence systems that they themselves say, will likely never get more than 10 to 20% of content.
+
+Senator Klobuchar: (03:01:10)
+There you go. And yet it’s a company that, what? They cap over a trillion dollars from the war world’s biggest companies that we’ve ever known. And that’s what really bothers me here. Senator Lujan And I also have pointed out the issue with content moderators does Facebook have enough content moderations for content in Spanish and other languages besides English?
+
+Miss Frances Haugen: (03:01:34)
+One of the things that was disclosed, we have documentation that shows how much operational investment there was by different languages, and it showed a consistent pattern of under investment in languages that are not English. I am deeply concerned about Facebook’s ability to operate in a safe way in languages beyond maybe the top 20 in the world.
+
+Senator Klobuchar: (03:01:58)
+Okay. Thank you. We go back to eating disorders. Today, you have said that you have documents indicating Facebook is doing studies on kids under 13, even though technically no kids under 13 are permitted on the platform. The potential for eating disorder content to be shown to these children raises serious concern center. Blumenthal’s been working on this, I’ve long been focused on this eating disorder issue, given the mortality rates. Are you aware of studies Facebook has conducted about whether kids under 13 on the platform are nudged towards content related to eating disorders or unhealthy diet practices. CNN also did investigation on this front.
+
+Miss Frances Haugen: (03:02:37)
+I have not seen specific studies regarding eating disorders in under the age of 13, but I have seen research that indicates that they are aware that teenagers coach tweens, who are on the platform, to not reveal too much, to not post too often, and that they have categorized that as myth, that you can’t be authentic on the platform and that the marketing team should try to advertise to teenagers to stop coaching tweens that way. So, I believe we’ve shared that document with Congress already.
+
+Senator Klobuchar: (03:03:11)
+Exactly. Well, thank you, and we’ll be looking more. Speaking of the research issue, Facebook has tried to downplay of the internal research that was done, saying it was unreliable. It seems to me that they’re trying to mislead us there; the research was extensive surveying hundreds of thousands of people traveling around the world to interview users. In your view, are the internal researchers at Facebook who examine how users are affected by the platform, is their work thorough? Are they experienced? Is it fair for Facebook to throw them under the bus?
+
+Miss Frances Haugen: (03:03:48)
+Facebook has one of the top ranked research programs in the tech industry. They’ve invested more in it than I believe any other social media platform and some of the biggest heroes inside the company are the researchers, because they are boldly asking real questions, and being willing to say awkward truths. The fact that Facebook is throwing them under the bus, I think is unacceptable. And I just want researchers to know that I stand with them and that I see them.
+
+Senator Klobuchar: (03:04:14)
+Or maybe we, you should say, as the name of one book, “The ugly truth.”
+
+Miss Frances Haugen: (03:04:17)
+Yeah.
+
+Senator Klobuchar: (03:04:17)
+What about Facebook blocking researchers at NYU from accessing the platform? Does that concern you? These are outside researchers.
+
+Miss Frances Haugen: (03:04:25)
+I am deeply concerned. So for context, for those who are not familiar with this research, there are researchers at NYU who, because Facebook does not publish enough data on political advertisements are how they are distributed, these are advertisements that influence our democracy, and how it operates, they created a plugin that allowed people to opt in, to volunteer, to help collect this data collectively, and Facebook lashed out at them and even banned some of their individual accounts. The fact Facebook is so scared of even basic transparency that it goes out of its way to block researchers who are asking awkward questions, shows you the need for congressional oversight, and why we need to do federal research and federal regulations on this.
+
+Senator Klobuchar: (03:05:08)
+Very good. Thank you. Thank you for your work.
+
+Mr. Chairman Blumenthal: (03:05:12)
+Thanks Senator Klobuchar. Senator Markey.
+
+Senator Ed Markey: (03:05:19)
+Thank you, Mr. Chairman. Thank you for your incredible leadership on this issue. As early as 2012, Facebook has wanted to allow children under the age of 12 to use this platform. At that time in 2012, I wrote a letter to Facebook asking questions about what data it planned to collect, and whether the company intended to serve targeted ads at children. Now, here we are nine years later, debating the very same issues. Today, Ms. Haugen, you’ve made it abundantly clear why Facebook wants to bring more children onto the platform. It’s to hook them early, just like cigarettes so that they become lifelong users, so Facebook’s profits increase. Yet, we should also ask why in the last nine years as the company not launch Facebook for kids or Instagram for kids? After all, from the testimony here today, Facebook appears to act without regard to any moral code, or any conscience, or instead puts profit above people, profit above all else.
+
+Senator Ed Markey: (03:06:25)
+The reason why Facebook hasn’t officially permitted kids 12 and under to use its platform, is because the Child Online Privacy Protection Act of 1998, that the author of exists. Because there is a privacy law on the books, which I authored, that gives the Federal Trade Commission regulatory power to stop websites and social media companies from invading the privacy of our children 12 and under. That’s why we need to expand the Child Online Privacy Protection Act. That’s why we need to pass the Kids Act that Senator Blumenthal and I have introduced, and why we need an Algorithmic Justice Act to pass, because the absence of regulation leads to harming, stoking division, damaging our democracy. That’s what you’ve told us today.
+
+Senator Ed Markey: (03:07:20)
+So Ms. Haugen, I want you to come back to the protections that you are calling on us to enact. This isn’t complicated. We’re going to be told online all day with these paid Facebook people, “Oh, Congress can’t act. They’re not experts. It’s too complicated for Congress. Just get out of the way. You’re not experts.” Well, this isn’t complicated. Facebook and it’s big tech lobbyists are blocking my bills to protect kids because it would them money. That’s how complicated it is. So, let’s start with the Kids Act and send it Blumenthal and I, that would ban influencer marketing to kids. Today’s popular influencers pedal products, while they flaunt their lavish lifestyles to young users. Can you explain how allowing influencer marketing to teens and children makes Facebook more money?
+
+Miss Frances Haugen: (03:08:23)
+The business model that provides a great deal of the content on Instagram is one where people produce content for free. They put it on Instagram free, no one’s charged for it, but many of those content creators have sponsorships from brands or from other affiliate programs. Facebook needs those content creators to continue to make content, so that we will view content, and in the process, view more ads. Facebook provides tools to support influencers, who do influencer marketing because it gives them the supply of content that allows them to keep people on the platform, viewing more ads, making more money for them.
+
+Senator Ed Markey: (03:09:05)
+Yeah. So I am actually the author of the 1990 Children’s Television Act. What does that do? Well, it says to all the television networks in America, “Stop praying on children. Stop using all of your power in order to try to get young children in our country, hooked on the products that are going to be sold.” We had to pass a law to ban television stations from doing this. That’s why I knew that after my law passed in 1996, to break up the monopolies of the telecommunications industry and allow in the Googles, and the Facebooks, and all the other companies, you name it, that we would need a child privacy protection there, because everyone would just move over to that new venue. It was pretty obvious, and of course the industry said, “No way, we’re going to have privacy laws for adults.” And they blocked me from putting that on the books in 1996. But at least for children, I got up to age 12. That’s all I could get out of the industry.
+
+Senator Ed Markey: (03:10:08)
+But, we also know that, as time has moved on it, they become even more sophisticated so that the Kids Act is necessary to stop children and teen apps from being features such as likes and follower accounts that quantify popularity. Ms. Haugen, can you explain how allowing these features that create an online popularity contest makes Facebook more money?
+
+Miss Frances Haugen: (03:10:42)
+Just to make sure, so, I am only familiar with issues regarding teens from the research I have read of Facebook’s. So I want to put that caveat on there. The research I’ve seen with regard to quantifiable popularity is that, as long as comments are allowed, so this is not a quantitative thing, this is just comments, as long as comments are still on posts on Instagram, just taking likes off Instagram, doesn’t fix the social comparison problem. That teenage girls are smart, they see that Sally is prettier than them, her pictures are really good, she gets tons of comments, they don’t get very many comments. Right? And so, I do think we need larger interventions than just removing quantitative measures.
+
+Miss Frances Haugen: (03:11:27)
+Facebook has a product that is very attractive. The reason why they have the study of problematic use is because it is kind of addictive. And those kinds of things, like having lots of little feedback loops, keeps kids engaged. And like I mentioned earlier, part of why Facebook switched over to meaningful social interactions was it found that if you got more likes, more comments, more reshares, you produced more content. And so, having those systems of little rewards, makes people produce more content, which means we view more content, and we view more ads, which makes them more money.
+
+Senator Ed Markey: (03:12:05)
+Okay. And the Kids Act that Senator Blumenthal and I are advocating for also prohibits amplification of dangerous and violent content to children and teens. Can you explain how algorithms pushing that dangerous content makes Facebook more money?
+
+Miss Frances Haugen: (03:12:20)
+I don’t think Facebook ever set out to intentionally promote divisive, extreme polarizing content. I do think though, that they are aware of the side effects of the choices they have made around amplification. And they know that algorithmic based ranking, so engagement based ranking, keeps you on their sites longer. You have longer sessions, you show up more often and that makes them more money.
+
+Senator Ed Markey: (03:12:45)
+So do you believe we have to ban all features that quantify popularity as a starting point in legislation?
+
+Miss Frances Haugen: (03:12:57)
+As I covered before, the internal research I’ve seen is that removing things like likes alone, if you don’t remove things like comments, doesn’t have a huge impact on social comparison. So I do believe we need to have a more integrated solution for these issues.
+
+Senator Ed Markey: (03:13:10)
+Should we ban targeted advertisements to children?
+
+Miss Frances Haugen: (03:13:14)
+I strongly encourage banning and targeted advertisements to children and we need to have oversight in terms of, I think the algorithms will likely still learn the interests of kids, and match ads to those kids, even if the advertiser can’t articulate, they’ll want to target on this interest.
+
+Senator Ed Markey: (03:13:29)
+How much money does Facebook make from targeting children?
+
+Miss Frances Haugen: (03:13:33)
+I don’t know what fraction of their revenue comes from children.
+
+Senator Ed Markey: (03:13:36)
+Okay, so ultimately children are not commodities.
+
+Miss Frances Haugen: (03:13:39)
+No.
+
+Senator Ed Markey: (03:13:39)
+They have always been given, historically, special protections. That’s what the Children’s Television Act of 1990 is all about. They have always been given this special safety zone so the children can grow up without being prayed upon by marketers. When I was a boy, and the salesman would knock on the front door, my mother would just say, “Tell them I’m not home. That man is not getting into our living room.” Well, I would say to my mother, “But you are home.” “Not to him,” she would say. Well, we need to give parents the ability just to say, “No one’s home for you, and your company, and your attempts to prey upon children, to get into our living room.” That’s our moment in history. We have to make sure that we respond to the challenge. Thank you, Mr. Chairman.
+
+Mr. Chairman Blumenthal: (03:14:31)
+Thank you Senator Markey. And my thanks to Senator Markey for his leadership over many years on protecting children. As you’ve heard, he was a champion in the House of Representatives before coming here, well before I was in the United States Senate, but around the time I was elected Attorney General. I’ve been very pleased and honored to work with him on legislation now, going forward. And I joined him in thanking you. I have just a few concluding questions, and I seem to be the last one left standing here. So, the good news is I don’t think we’ll have others, but as you may know, you do know, my office created an Instagram user identified as a 13 year old girl. She followed a few easily identifiable accounts on weight loss, dieting, eating disorders. And she was deluged, literally, within a day of content, pushed to her by algorithms that, in effect, promoted self injury and eating disorders. Are you surprised by that fact?
+
+Miss Frances Haugen: (03:15:51)
+I’m not surprised by that fact. Facebook has internal research where they have done even more gentle versions of that experiment, where they have started from things like interest in healthy recipes. So not even extreme dieting, and because of the nature of engagement based ranking and amplification of interests that, that imaginary user was pushed, or that real account was pushed towards extreme dieting and pro-anorexia content very rapidly.
+
+Mr. Chairman Blumenthal: (03:16:17)
+And that’s the algorithm?
+
+Miss Frances Haugen: (03:16:19)
+That’s the algorithm.
+
+Mr. Chairman Blumenthal: (03:16:21)
+That algorithm could be changed?
+
+Miss Frances Haugen: (03:16:23)
+The algorithm definitely could be changed. I have firsthand experience from having worked at Pinterest. Pinterest used to be an application that was heavily based just on, you follow certain people’s pins, and those are put into your feed. And over time, it grew to be much, much more heavily based on recommendations that the algorithm would figure out, what are you interested in? You can have wonderful experiences that are based on human interactions. So these are human scale technologies, not computers choosing what we focus on.
+
+Mr. Chairman Blumenthal: (03:16:54)
+So, the average parent listening here worried about their daughter or son being deluged with these kinds of content would want that kind of algorithm changed, I would think, and would welcome the oversight that you’re recommending.
+
+Miss Frances Haugen: (03:17:14)
+I believe parents deserve more options and more choices. And today they don’t know even what they could be asking for.
+
+Mr. Chairman Blumenthal: (03:17:21)
+I just received by text, literally about 15 minutes ago, a message from someone in Connecticut. And I’m going to read it to you. It’s from a dad, “I’m in tears right now, watching your interaction with Francis Haugen. My 15 year old daughter loved her body at 14. Was on Instagram constantly, and maybe posting too much. Suddenly, she started hating her body, her body dysmorphia, now anorexia, and was in deep, deep trouble before we found treatment. I fear she’ll never be the same, I’m brokenhearted. I think people tend to lose sight of the real world impact here. And I think that’s the reason that you’re here. I’d just like to invite you, if you have any words to those other employees at big tech, the workers who may be troubled by the misconduct or unethical conduct that they see, what you would tell them.
+
+Miss Frances Haugen: (03:18:46)
+We live in a pattern that we have seen throughout time with regard to technologies, is that humans are very crafty people; we find interesting solutions, but we often get out over our skis, right? We develop things that are of larger scale than we really know how to handle. And what we have done in the past is, when we see this happen, we take a step back, and we find institutions, and we find frameworks for doing these things in a safe way. We live in a moment where whistleblowers are very important, because these technological systems are walled off. They are very complicated. They’re things that you need to be a specialist to really understand the consequences of. And the fact that we’ve been having the exact same kinds of false choice discussions about what to do about Facebook; is it about privacy or oversight? Is it about censorship or safety? The fact that we’re being asked these false choices is just an illustration of what happens when the real solutions are hidden inside of companies. We need more tech employees to forward through legitimate channels, like the SCC or Congress, to make sure that the public has the information they need, in order to have technologies be human-centric, not computer-centric.
+
+Mr. Chairman Blumenthal: (03:20:00)
+Thank you, on that note, we’ll conclude.
+
+Miss Frances Haugen: (03:20:04)
+Thank you.
+
+Mr. Chairman Blumenthal: (03:20:04)
+Thank you for an extraordinary testimony. I think that anybody watching would be impressed and much better informed, and you’ve done America a real public service, I think.
+
+Miss Frances Haugen: (03:20:18)
+Oh, thank you.
+
+Mr. Chairman Blumenthal: (03:20:20)
+The record will remain open for two weeks. Any senators who want to submit questions for the record should do so by October 19th, this hearing is adjourned.
+
+Miss Frances Haugen: (03:20:35)
+Thank you. [crosstalk 03:20:35] (silence).
+
+Speaker 1: (03:21:30)
+[inaudible 03:21:30].
+
+Miss Frances Haugen: (03:21:42)
+[inaudible 03:21:42].
+
+Mr. Chairman Blumenthal: (03:22:20)
+Thank you. [inaudible 03:22:20] See you tomorrow.
