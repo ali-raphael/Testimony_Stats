@@ -15,8 +15,6 @@
 #                   Took out restriction for chairman empty exchanges getting added to MSC time col.
 #                   Added ability to have more than 1 testifier
 #
-# For next time:
-# Need to fix recess check. It's adding ~1/2 hr to bloomenthals time
 #
 
 
@@ -24,15 +22,16 @@ class Exchange():
     questioner = None              # The senator asking questions in this exchange
 
     def __init__(self, senatorName, startTime):
-        self.startTime = startTime
-        self.questioner = Participant(senatorName)
-        self.answerer = None
-        self.length = 0                 # Number of minutes in the exchange
-        self.lengthStr = ''
+        self.startTime = startTime                      # Timestamp of start - str format (mm:ss)
+        self.questioner = Participant(senatorName)      # Participant asking questions
+        self.answerer = None                            # Participant answering questions
+        self.length = 0                                 # Number of minutes in the exchange
+        self.lengthStr = ''                             # Length of exchange - str format mm:ss
 
     def setAnswerer(self, name):
         self.answerer = Participant(name)
 
+    # Add participant's text
     def addText(self, participant, time, text):
         if participant == self.questioner.name:
             self.questioner.addText(time, text)
@@ -41,6 +40,7 @@ class Exchange():
                 self.setAnswerer(participant)
             self.answerer.addText(time, text)
 
+    # Set length of this exchange
     def setLength(self, startTime, endTime):
         date_start = parseTime(startTime)
         date_end = parseTime(endTime)
@@ -49,17 +49,16 @@ class Exchange():
         self.lengthStr = '%02d' %int(difference.seconds/60) + ':' + '%02d' %(difference.seconds%60)
         self.length = float(difference.seconds)/60.0
 
-    def getTotals(self):
-        print('Write this part')
 
 class Participant():
 
     def __init__(self, name):
-        self.name = name
-        self.words = 0
-        self.questions = 0
-        self.statements = 0
-        self.times = {}
+        self.name = name                        # Name of participant
+        self.words = 0                          # Word count of participant's text
+        self.questions = 0                      # Number of questions asked
+        self.statements = 0                     # Number of sentences (not including questions)
+        self.times = {}                         # Dict of timestamps and text for this participant
+                                                # {'03:12:34' : 'Words words words', '03:23:47' : 'Divide a whole into thirds'}
 
     def addText(self, time, text):
         text = text.replace('...', '.') + '\n'
@@ -89,8 +88,9 @@ def parseTime(timeStr):
 
 
 # Writes the data to a new excel file
-#   datasets: lists of rows to write [[headers], [row0], [row1]]
-#   fileName: string name of file. Needs .xlsx
+#   datasets: list of datasets to write. 1 per sheet.
+#   One dataset would be: [[headers], [row0], [row1]]
+#   filePath: string name of file path to save to. Needs .xlsx
 #   sheetNames: list of strings to use as sheet tab labels
 def writeExcel(datasets, filePath, sheetNames = []):
     wb = workbook.Workbook(filePath, {'strings_to_numbers' : True})
@@ -114,30 +114,35 @@ from xlsxwriter import workbook
 # chairman = 'Senator Blumenthal'                                     # id of chair to recognize opening & closing exchange
 # min_chairman = 'Senator Blackburn'                                  # id of minority chairman to recognize opening
 # testifying = ['Frances Haugen']                                     # List of testifier IDs
-# openTime = '(26:44)'                                                # Timestamp of opening statement (only used if testifier not sworn in)
+# openTimes = ['(26:44)']                                             # Timestamps of opening statement
+#                                                                     #       - only used if testifier not sworn in
+#                                                                     #       - one per testifier
 # fileName = 'Facebook W Senate Testimony_Clean.txt'                  # use cleanFile.py to get cleaned version of file
 # finalfileName = 'Oct 5th - Facebook W Senate Testimony Metrics.xlsx'
 
-# chairman = 'Senator Durbin'                  # id of chair to recognize opening & closing exchange
-# min_chairman = 'Senator Grassley'  #            # id of minority chairman to recognize opening
-# testifying = ['AG Garland'] #                                    # List of testifier IDs
-# openTime = ''
+## Second file for testing
+# chairman = 'Senator Durbin'
+# min_chairman = 'Senator Grassley'
+# testifying = ['AG Garland']
+# openTimes = []
 # fileName = 'AG Senate J Testimony_Clean.txt'
 # finalfileName = 'Oct 27 - AG Senate J Testimony Metrics.xlsx'
 
-# chairman = 'Senator Durbin'                  # id of chair to recognize opening & closing exchange
-# min_chairman = 'Senator Grassley'  #            # id of minority chairman to recognize opening
-# testifying = ['Hon. Christoper A. Wray'] #                                    # List of testifier IDs
-# openTime = ''
+## Third File for testing
+# chairman = 'Senator Durbin'
+# min_chairman = 'Senator Grassley'
+# testifying = ['Hon. Christoper A. Wray']
+# openTimes = []
 # fileName = 'FBI Senate J Testimony_Clean.txt'
 # finalfileName = 'Mar 2 - FBI Senate J Testimony Metrics.xlsx'
 
-chairman = 'Senator Murray'                  # id of chair to recognize opening & closing exchange
-min_chairman = 'Senator Burr'  #            # id of minority chairman to recognize opening
+## Fourth file for testing multiple testifiers
+chairman = 'Senator Murray'
+min_chairman = 'Senator Burr'
 testifying = ['Dr. Fauci',
-                'Dr. Walensky',
-                'Dr. Woodcock',
-                'Ms. O’Connell'] #                                    # List of testifier IDs
+            'Dr. Walensky',
+            'Dr. Woodcock',
+            'Ms. O’Connell']                                     # List of testifier IDs
 openTimes = ['(18:11)', '(23:31)', '(28:58)', '(34:24)']
 fileName = 'COVID Senate Testimony_Clean.txt'
 finalfileName = 'Nov 4 - COVID Senate Testimony Metrics.xlsx'
@@ -171,8 +176,8 @@ for line in lines:
         # Do we have either timestamp formats used? Indicates a new speaker
         match1 = bool(re.search(timestamp_str1, line))
         match2 = bool(re.search(timestamp_str2, line))
-        if match1 or match2:                    # Found a timestamp
-            speaker, thisTime = line.split(': ')    # The speaker just found
+        if match1 or match2:                        # Found a timestamp
+            speaker, thisTime = line.split(': ')    # The speaker & timestamp just found
             thisTime_date = parseTime(thisTime)
 
             if lastTime_date is not None:
@@ -208,14 +213,14 @@ for line in lines:
 # Sorting linesLabeled into list of exchange objects
 # Exchanges define questoner & answerer (Participant objects)
 # as well as numbers of questions, statements & length.
-# Also (tries) to find opening statements from chair & minority chair
-exchanges = []                              # List of exchange objs in order
-start = False                               # Will start once 'I do.' is found in file
-lastSpeaker = None                          # The last person to ask questions
-chair_opening = ''
-min_opening = ''
-testifier_openings = dict.fromkeys(testifying, '')
-closing = ''
+# Also (tries) to find opening statements from chair, minority chair & testifiers
+exchanges = []                                      # List of exchange objs in order
+start = False                                       # Will start once 'I do.' is found in file
+lastSpeaker = None                                  # The last person to ask questions
+chair_opening = ''                                  # Opening statement from the chairman
+min_opening = ''                                    # Opening statement from minority chairman
+testifier_openings = dict.fromkeys(testifying, '')  # Dict to hold testifier opening statements {'testifier1' : 'Opening statement'}
+
 for z, line in enumerate(linesLabeled):
     speaker, thisTime, text = line
     thisTime_date = parseTime(thisTime)
@@ -226,8 +231,8 @@ for z, line in enumerate(linesLabeled):
 
         # Skips exchanges:
         #   chairman just calling on the next speaker
-        #   exchanges shorter than 150 characters
         # Never skips exchanges containing the word recess
+        # (so that the recess time gets excluded from length calcs later)
         containsSenator = bool(sum([int(text.find(s) > -1) for s in senators]))
         textLen = len(text)
         if not ((speaker == chairman and containsSenator and len(text) < 100) and text.lower().find('recess') == -1):
@@ -295,7 +300,7 @@ lastExchange = None
 isRecess = False
 for exchange in exchanges:
     if lastExchange is not None:
-        # Exchange of chairman just calling recess.
+        # Exchange of chairman calling recess.
         # Will make lastExchange length = 0 instead of length of recess
         isRecess = bool(sum([int(i.lower().find('recess') > -1) for i in list(lastExchange.questioner.times.values())]))
 
@@ -379,7 +384,7 @@ for senator in senators:
 
         thisSenatorRow[headers_senators.index('Total Time (min)')] += exchange.length
 
-    # Find the word count for all of the senators exchanges
+    # Find the word count for all of the senator's exchanges
     finalSenatorWords = thisSenatorRow[headers_senators.index('Word Count Senator')]
     finalTestifiersWords = thisSenatorRow[headers_senators.index('Word Count Testifiers')]
     if finalTestifiersWords:
@@ -387,12 +392,12 @@ for senator in senators:
 
     senatorRows += [thisSenatorRow]
 
-senatorSet = [headers_senators] + senatorRows
-exchangeSet = [headers_exchange] + exchangeRows
 
 # ******************************************#
 #               Writing File
 #
+senatorSet = [headers_senators] + senatorRows
+exchangeSet = [headers_exchange] + exchangeRows
 openingSet = [[chairman, chair_opening], ['***', '***', '***'],
             [min_chairman, min_opening], ['***', '***', '***']]
 for a, testifier in enumerate(testifying):
